@@ -1,0 +1,132 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.7.6">
+  <diagram name="Page-1" id="NIdN9TAIQ7ZBKaw6zO0f">
+    <mxGraphModel dx="756" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2du97CqIPiSQvwclCsvQ-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="20" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-2" value="&lt;div&gt;Website/API&lt;/div&gt;&lt;div&gt;MoBis&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-4" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15.599999999999966;" vertex="1" parent="1">
+          <mxGeometry x="40" y="375" width="175" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-6" value="&lt;div&gt;MauritiusMap&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="435" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-7" value="Bus Stops Nodes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="525" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-8" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15.599999999999966;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="140" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-9" value="Buses Route" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-11" value="Should allow live tracking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="415" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="440" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-13" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.22;entryY=1.003;entryDx=0;entryDy=0;exitX=0.203;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="2du97CqIPiSQvwclCsvQ-14" target="2du97CqIPiSQvwclCsvQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="245" as="sourcePoint" />
+            <mxPoint x="200" y="305" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="83" y="225" />
+              <mxPoint x="180" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="285" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-15" value="Display Map with bus stop" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.452;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.671;exitY=-0.005;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2du97CqIPiSQvwclCsvQ-14" target="2du97CqIPiSQvwclCsvQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="282" as="sourcePoint" />
+            <mxPoint x="240" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="245" />
+              <mxPoint x="220" y="245" />
+              <mxPoint x="220" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-17" value="&lt;div&gt;Calculate &lt;br&gt;&lt;/div&gt;&lt;div&gt;Route&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="295" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="275" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-22" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="275" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-21" value="&lt;div&gt;Contribute to bus route livetracking&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="290" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-20" value="&lt;div&gt;Contribute&lt;/div&gt;&lt;div&gt;&amp;nbsp;accuracy of bus stops&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.47;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.391;entryY=1.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2du97CqIPiSQvwclCsvQ-4" target="2du97CqIPiSQvwclCsvQ-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="345" as="sourcePoint" />
+            <mxPoint x="290" y="295" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-29" value="&lt;div&gt;Admin &lt;br&gt;&lt;/div&gt;&lt;div&gt;approves?&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="445" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2du97CqIPiSQvwclCsvQ-29" target="2du97CqIPiSQvwclCsvQ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="575" as="sourcePoint" />
+            <mxPoint x="300" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.385;exitY=0.997;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2du97CqIPiSQvwclCsvQ-22" target="2du97CqIPiSQvwclCsvQ-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="575" as="sourcePoint" />
+            <mxPoint x="300" y="445" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.658;exitY=1.02;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2du97CqIPiSQvwclCsvQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="465" as="sourcePoint" />
+            <mxPoint x="290" y="275" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="260" y="245" />
+              <mxPoint x="290" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.954;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2du97CqIPiSQvwclCsvQ-1" target="2du97CqIPiSQvwclCsvQ-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="308" y="200" as="sourcePoint" />
+            <mxPoint x="340" y="271" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="245" />
+              <mxPoint x="410" y="245" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.567;exitY=0.988;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.333;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2du97CqIPiSQvwclCsvQ-19" target="2du97CqIPiSQvwclCsvQ-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="465" as="sourcePoint" />
+            <mxPoint x="400" y="415" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-37" value="MoBis Program" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2du97CqIPiSQvwclCsvQ-38" value="Once enough data gathered, can start showing bus routes." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="565" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
