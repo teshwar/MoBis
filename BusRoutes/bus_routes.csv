@@ -1,0 +1,6542 @@
+Route:,1
+Operator:,RHT
+Location 1:,Port Louis
+Location 2:,Rose Hill
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,"Belle Etoile (Tamil Social
+Hall)"
+5,"Beau Bassin (Vinayak
+Mandir)"
+6,"Beau Bassin (Cercle de
+Beau Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+
+
+Route:,1A
+Operator:,RHT
+Location 1:,Port Louis
+Location 2:,Rose Hill
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Serge Alfred
+Swimming Pool)"
+7,"Hugnin Road (Rose Hill
+Transport Garage)"
+8,"Boundary Road (St Patrick
+Church)"
+9,Rose Hill (Market)
+
+
+Route:,1B
+Operator:,RHT
+Location 1:,Port Louis
+Location 2:,Rose Hill
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Cascadelle (Beeneesreesing
+House)"
+7,"Rose Hill (Junction
+Vandermeersch / Malartic
+Streets)"
+8,"Rose Hill (Place Cardinal
+Margeot)"
+
+
+Route:,1C
+Operator:,RHT
+Location 1:,Port Louis
+Location 2:,Rose Hill
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6A,Barkly (Housing Estate)
+6,"Beau Bassin (Serge Alfred
+Swimming Pool)"
+7,"Hugnin Road (Rose Hill
+Transport Garage)"
+8,"Boundary Road (St Patrick
+Church)"
+9,Rose Hill (Market)
+
+
+Route:,1D
+Operator:,RHT
+Location 1:,Port Louis
+Location 2:,Saint Martin
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Lycee de Beau
+Bassin)"
+7,"Mont Roches (Co-operative
+Store)"
+8,Saint Martin (Cemetery)
+
+
+Route:,2A
+Operator:,UBS
+Location 1:,Port Louis
+Location 2:,Curepipe
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Cercle de Beau
+Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Belle Rose (Pepsi Cola)
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,Phoenix (Police Station)
+12,Castel (Magasin Etoile Brillant)
+13,"Eau Coulee (Neergheen
+Bhawan)"
+14,Curepipe (Jan Palach North)
+
+
+Route:,2A
+Operator:,UBS
+Location 1:,Port Louis
+Location 2:,Curepipe
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Cercle de Beau
+Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Belle Rose (Pepsi Cola)
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,Phoenix (Police Station)
+12,Castel (Magasin Etoile Brillant)
+13,"Eau Coulee (Neergheen
+Bhawan)"
+14,Forest Side
+
+
+Route:,3
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Vacoas
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Cercle de Beau
+Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Belle Rose (Pepsi Cola)
+9,Quatre Bornes (Cite Saint Jean)
+10,La Louise
+11,Candos (Victoria Hospital)
+12,La Caverne (Modern Complex)
+13,Vacoas (Bus Station)
+
+
+Route:,3A
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Vacoas / Phoenix
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Cercle de Beau
+Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Belle Rose (Pepsi Cola)
+9,Quatre Bornes (Cite Saint Jean)
+10,La Louise
+11,Candos (Victoria Hospital)
+12,La Caverne (Modern Complex)
+13,Vacoas (Bus Station)
+14,"Phoenix (Indira Gandhi Cultural
+Centre)"
+
+
+Route:,3B
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Bord Cascade
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Cercle de Beau
+Bassin)"
+7,Rose Hill (Place Cardinal Margeot)
+8,Belle Rose (Pepsi Cola)
+9,Quatre Bornes (Cite Saint Jean)
+10,La Louise
+11,Candos (Victoria Hospital)
+12,La Caverne (Modern Complex)
+13,Hollyrood (Optiprix Store)
+14,Glen Park (Shivala)
+15,Henrietta (Chapel)
+16,Bord Cascade
+
+
+Route:,3C
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Bassin
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Cercle de Beau
+Bassin)"
+7,Rose Hill (Place Cardinal Margeot)
+8,Belle Rose (Pepsi Cola)
+9,Quatre Bornes (Cite Saint Jean)
+10,La Louise
+11,Bassin
+
+
+Route:,3D
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,La Marie
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Cercle de Beau
+Bassin)"
+7,Rose Hill (Place Cardinal Margeot)
+8,Belle Rose (Pepsi Cola)
+9,Quatre Bornes (Cite Saint Jean)
+10,La Louise
+11,Candos (Victoria Hospital)
+12,La Caverne (Modern Complex)
+13,Hollyrood (Optiprix Store)
+14,Glen Park (Shivala)
+15,La Marie (Entrance)
+16,La Marie (Terminus)
+
+
+Route:,4
+Operator:,NTC
+Location 1:,Quatre Bornes
+Location 2:,Curepipe
+0,Quatre Bornes (Traffic Centre)
+1,Candos (Victoria Hospital)
+2,La Caverne (Modern Complex)
+3,Vacoas (S.M.F.)
+4,Saint Paul (Magasin Lotus)
+5,Castel (Magasin Etoile Brillant)
+6,Eau Coulee (Neergheen Bhawan)
+7,Curepipe (Jan Palach North)
+
+
+Route:,4A
+Operator:,NTC
+Location 1:,Quatre Bornes
+Location 2:,Curepipe
+0,Quatre Bornes (Traffic Centre)
+1,Candos (Victoria Hospital)
+2,La Caverne (Modern Complex)
+3,Vacoas (S.M.F.)
+4,Junction Floreal / Riverwalk Roads
+5,Floreal (Knitwear Factory)
+6,Curepipe Road (Darne Clinic)
+7,Curepipe (Jan Palach North)
+
+
+Route:,5
+Operator:,"Individual
+Operator"
+Location 1:,Quatre Bornes
+Location 2:,Baie du Cap
+0,Quatre Bornes (Traffic Centre)
+1,La Louise
+2,Palma (Government School)
+3,Palma (Junction Bassin Estate)
+4,Beaux Songes (Reservoir)
+5,"Montee Bol (Junction Geoffroy
+Road)"
+6,Bambous (Mangues Vert Doux)
+7,"Bambous (Junction Black River /
+Geoffroy Roads)"
+8,Bambous (Dragon Store)
+9,Junction Flic en Flac
+10,Clarence (Beginning of Village)
+11,Clarence (End of Village)
+12,Riviere du Rempart Bridge
+13,Tamarin (Beginning of Village)
+14,Tamarin (Salt Pans)
+15,La Preneuse
+16,Grande Riviere Noire (Salt Pans)
+17,"Grande Riviere Noire (Trois Bras
+Store)"
+18,Montee Bois Puant
+19,Petite Riviere Noire (Salt Pans)
+20,"Petite Riviere Noire (End of
+Village)"
+21,Case Noyale
+22,La Gaulette
+23,Coteau Raffin
+24,Le Morne (Hotel Junction)
+25A,Le Morne (Le Paradis Hotel)
+26A,Le Morne (Le Berjaya Hotel)
+25,Le Morne (Football Ground)
+26,Le Morne (End of Village)
+27,La Prairie (Beach)
+28,"La Prairie (Signpost ‘Dangerous
+Bath’)"
+29,Maconde
+30,Baie du Cap
+
+
+Route:,5A
+Operator:,NTC
+Remark:,School and peak time service provided
+0,Baie du Cap
+1,Choisy (Beginning of Village)
+2,Choisy (End of Village)
+3,Chamarel (Forest)
+7,Chamarel (Saint Anne Church)
+
+
+Route:,6
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Rivière des Galets
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,"Nouvelle France (Police
+Station)"
+6,Nouvelle France (Comlone)
+7,"Beau Climat (Sugar Estate
+Office)"
+8,La Flora (Shivala)
+10,Junction Riviere du Poste
+11,Riviere Dragon
+12,Britannia
+13,Tyack (Vishnu Mandir)
+14,Riviere des Anguilles
+15,Union Ducray
+16,"Souillac (Bain des Negresses
+Bridge)"
+17,Souillac (Bus Station)
+18,Surinam (Mosque)
+19,Surinam (Peerally Store)
+20,Contour Leon
+21,Belle Vue
+22,Chemin Grenier (Taxi Stand)
+23,"Chemin Grenier (Tamil
+Temple)"
+24,"Riviere des Galets (Bus
+Station)"
+
+
+Route:,6A
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Chamouny
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,"Nouvelle France (Police
+Station)"
+6,Nouvelle France (Comlone)
+7,"Beau Climat (Sugar Estate
+Office)"
+8,La Flora (Shivala)
+10,Junction Riviere du Poste
+11,Riviere Dragon
+12,Britannia
+13,Tyack (Vishnu Mandir)
+14,Riviere des Anguilles
+15,Union Ducray
+16,"Souillac (Bain des Negresses
+Bridge)"
+17,Souillac (Bus Station)
+18,Surinam (Mosque)
+19,Surinam (Peerally Store)
+20,Contour Leon
+21,Belle Vue
+22,Chemin Grenier (Taxi Stand)
+23,Chamouny
+
+
+Route:,6B
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Martiniere
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,"Nouvelle France (Police
+Station)"
+6,Nouvelle France (Comlone)
+7,"Beau Climat (Sugar Estate
+Office)"
+8,La Flora (Shivala)
+10,Junction Riviere du Poste
+11,Riviere Dragon
+12,Britannia
+13,Tyack (Vishnu Mandir)
+14,Riviere des Anguilles
+15,Union Ducray
+16,"Souillac (Bain des Negresses
+Bridge)"
+17,Souillac (Bus Station)
+18,Surinam (Mosque)
+19,Martiniere
+
+
+Route:,7
+Operator:,NTC
+Location 1:,Rivière des Galets
+Location 2:,J. Nehru Hospital
+0,"Rose Belle (Jawaharlall Nehru
+Hospital)"
+1,Rose Belle (Gebert)
+2,"New Grove Branch Road
+(Community Health Centre)"
+3,Gros Billot (Samputh’s House)
+4,Mare Tabac (Bridge)
+5,Joli Bois (Sugar Estate Office)
+6,Riviere du Poste (Kalimaye)
+7,Junction Riviere du Poste
+8,Riviere Dragon
+9,Riche Bois
+10,Camp Diable
+11,Saint Amand Bridge
+12,Chateau Benares
+13A,Benares Village
+13,Batimarais
+14,Riviere des Anguilles
+15,Union Ducray
+16,"Souillac (Bain des Negresses
+Bridge)"
+17,Souillac (Bus Station)
+18,Surinam (Mosque)
+19,Surinam (Peerally Store)
+20,Contour Leon
+21,Belle Vue
+22,Chemin Grenier (Taxi Stand)
+23,"Chemin Grenier (Tamil
+Temple)"
+24,"Riviere des Galets (Bus
+Station)"
+
+
+Route:,8
+Operator:,NTC
+Location 1:,Souillac
+Location 2:,Baie du Cap
+0,Souillac (Bus Station)
+1,Surinam (Mosque)
+2,Surinam (Peerally Store)
+3,Contour Leon
+4,Belle Vue
+5,Chemin Grenier (Taxi Stand)
+6,Chemin Grenier (Tamil Temple)
+7,Riviere des Galets (Bus Station)
+8,Beau Champ (Bridge)
+9,Beau Champ (End of Village)
+10,"Bel Ombre (Beginning of
+Village)"
+11,"Bel Ombre (Government
+School)"
+12,"Saint Martin (Michael Leal
+Road)"
+13,Baie du Cap
+
+
+Route:,8B
+Operator:,NTC
+Remark:,School and peak time service provided
+0,Souillac (Bus Station)
+1,Surinam (Mosque)
+2,Surinam (Peerally Store)
+3,Contour Leon
+4,Belle Vue
+5,Chemin Grenier (Taxi Stand)
+6,Chemin Grenier (Tamil Temple)
+7,Riviere des Galets (Bus Station)
+8,Beau Champ (Bridge)
+9,Beau Champ (End of Village)
+10,Bel Ombre (Beginning of Village)
+11,Bel Ombre (Government School)
+12,Saint Martin (Michael Leal Road)
+13,Baie du Cap
+14,Choisy (Beginning of Village)
+15,Choisy (End of Village)
+
+
+Route:,9
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Mahebourg
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,Nouvelle France (Police Station)
+6,Union Park (Cluny Junction)
+7,Union Park (Village Hall)
+8A,Jawaharlall Nehru Hospital
+8,"Rose Belle (Junction Jawaharlall
+Nehru Hospital / Royal Roads)"
+9,Rose Belle (Gebert)
+10,La Rosa
+11,"Mare d’Albert (Government
+School)"
+12,Mare d’Albert (United Basalt)
+13,Plaine Magnien (Police Station)
+14,Plaisance (Grotto)
+15A,S.S.R. International Airport
+15,Madame Dayla
+16,Beau Vallon
+17,Mahebourg (Bus Station)
+
+
+Route:,10
+Operator:,"Individual
+Operator"
+Location 1:,Mahebourg
+Location 2:,Rivière des Galets
+0,Mahebourg (Bus Station)
+1,Beau Vallon
+2,Madame Dayla
+3,Plaisance (Grotto)
+4A,S.S.R. International Airport
+4,Plaine Magnien
+5,Union Vale
+6,Trois Boutiques
+7,Plein Bois
+8,L’Escalier (Police Station)
+9,La Sourdine
+10,"Savannah (Sugar Estate
+Entrance)"
+11,Saint Amand Bridge
+12A,Camp Diable
+13A,Riche Bois (Tookay Temple)
+12,Chateau Benares
+13,Batimarais
+14,Riviere des Anguilles
+15,Union Ducray
+16,"Souillac (Bain des Negresses
+Bridge)"
+17,Souillac (Bus Station)
+18,Surinam (Mosque)
+19,Surinam (Peerally Store)
+20,Contour Leon
+21,Belle Vue
+22,Chemin Grenier (Taxi Stand)
+23,Chemin Grenier (Tamil Temple)
+24,Riviere des Galets (Bus Station)
+
+
+Route:,10A
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,La Sourdine
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,Nouvelle France (Police Station)
+6,Union Park (Cluny Junction)
+7,Union Park (Village Hall)
+8A,Jawaharlall Nehru Hospital
+8,"Rose Belle (Junction Jawaharlall
+Nehru Hospital / Royal Roads)"
+9,Rose Belle (Gebert)
+10,La Rosa
+11,"Mare d’Albert (Government
+School)"
+12,Mare d’Albert (United Basalt)
+13,Plaine Magnien (Police Station)
+14,Union Vale
+15,Trois Boutiques
+16,Plein Bois
+17,L’Escalier (Police Station)
+18,La Sourdine
+
+
+Route:,11
+Operator:,"Individual
+Operator"
+Location 1:,Mahebourg
+Location 2:,Le Val
+0,Mahebourg (Bus Station)
+1,Ville Noire
+2,"Grand Bel Air (Wan Sek Lau’s
+Shop)"
+3,"Bel Air Road (Grand Port
+Junction)"
+4,Riche en Eau (Sugar Factory)
+5,"Saint Hilaire (Chateau
+Rochecouste – Grand Cour)"
+6,Saint Hubert (Ex-Samputh Shop)
+7,Saint Hubert (Terminus)
+8,Le Val
+
+
+Route:,12
+Operator:,"Individual
+Operator"
+Location 1:,Pellegrin
+Location 2:,Port Louis
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Mount Ory (Sungkur Shop)
+6,"Moka (Junction Leclezio Avenue /
+Bois Cheri Road)"
+7A,Moka (Hospital)
+7,Moka (Government School)
+8,Riviere Baptiste (Junction)
+9,Saint Pierre (Traffic Centre)
+10,Verdun (Beginning of Village)
+11,Verdun (Bar Le Duc Bridge)
+12,Alma (Beginning of Village)
+13,Alma (Cemetery)
+14,Quartier Militaire (Ex-Railway Station)
+15,Providence (Beginning of Village)
+16,Providence (End of Village)
+17,Melrose (Beginning of Village)
+18,Melrose (End of Village)
+19,"Montagne Blanche (Beginning of
+Village)"
+20,Montagne Blanche (End of Village)
+21,Lesur
+22,Sebastopol
+23,Pellegrin (Nehru’s House)
+24,Pellegrin (Riviere Profonde)
+
+
+Route:,Route not found
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 12
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Mount Ory (Sungkur Shop)
+6,"Moka (Junction Leclezio Avenue /
+Bois Cheri Road)"
+7A,Moka (Hospital)
+7,Moka (Government School)
+8,Riviere Baptiste (Junction)
+9,Saint Pierre (Traffic Centre)
+10,Verdun (Beginning of Village)
+11,Verdun (Bar Le Duc Bridge)
+12,Alma (Beginning of Village)
+13,Alma (Cemetery)
+14,"Quartier Militaire (Ex-Railway
+Station)"
+15,Providence (Beginning of Village)
+16,Providence (End of Village)
+17,Melrose (Beginning of Village)
+18,Melrose (End of Village)
+19,"Montagne Blanche (Beginning of
+Village)"
+20,Petit Paquet
+21,Pellegrin (Riviere Profonde)
+
+
+Route:,13
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 15
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,"Reduit (University of
+Mauritius)"
+3,"Moka (Mahatma Gandhi
+Institute)"
+4,"Moka (Junction Leclezio
+Avenue / Bois Cheri Road)"
+5A,Mount Ory (Sungkur Shop)
+5,Moka (Government School)
+6,Riviere Baptiste (Junction)
+7,Saint Pierre (Traffic Centre)
+
+
+Route:,13A
+Operator:,"Individual
+Operator"
+Location 1:,Eau Bouillie
+Location 2:,Rose Hill
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,"Reduit (University of
+Mauritius)"
+3,"Moka (Mahatma Gandhi
+Institute)"
+4A,Moka (Hospital)
+4,Gentilly
+5,Saint Pierre (Traffic Centre)
+6,L’Avenir
+7,"Junction La Laura /
+Nouvelle Decouverte Roads"
+8,Beau Bois
+9,Ripailles
+10,"Nouvelle Decouverte
+(Government School)"
+11,"Junction La Nicoliere Road /
+Eau Bouillie"
+
+
+Route:,13D
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 15
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,"Reduit (University of
+Mauritius)"
+3,"Moka (Mahatma Gandhi
+Institute)"
+4A,Moka (Hospital)
+4,Gentilly
+5,Saint Pierre (Traffic Centre)
+6,L’Avenir
+7,"Junction La Laura /
+Nouvelle Decouverte Roads"
+8A,Malinga
+8,La Laura
+
+
+Route:,14
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Rose Belle
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,Midlands (Coriolis Road)
+4,Midlands (Tombstone)
+5,Midlands (Government School)
+6,Bananes (Water Pump)
+7,Bananes (Beeharry Shop)
+8,Eau Bleue (Reservoir)
+9,Junction Cluny / Mare Chicose
+10,Cluny (Mandir)
+11,Cluny (Cite Beemanique)
+12,Union Park (Cluny Junction)
+13,Union Park (Village Hall)
+14A,Jawaharlall Nehru Hospital
+14,Rose Belle (Terminus)
+
+
+Route:,14A
+Operator:,NTC
+Remark:,Service provided by buses of Route 14
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,Midlands (Coriolis Road)
+4,Midlands (Tombstone)
+5,Midlands (Government School)
+6,Junction Midlands / Chartreuse
+7,Chartreuse (Ex-Tea Factory)
+8,Junction Chartreuse / Dubreuil
+9,Raffray No. 1
+10,Midlands Dam (Entrance)
+11,Junction La Pipe / Pave Citron
+12,Camp du The (Tea Shelter)
+13,Riviere du Bois (Shelter No. 1)
+14,Riviere du Bois (Office No. 2)
+15,Pave Citron
+
+
+Route:,14B
+Operator:,NTC
+Remark:,Service provided by buses of Route 14
+0,Curepipe (Jan Palach South)
+1,"Forest Side (La Vigie
+Roundabout)"
+3,Midlands (Tombstone)
+4,Midlands (Government School)
+
+
+Route:,15
+Operator:,"Individual
+Operator"
+Location 1:,Rose Hill
+Location 2:,Belle Mare
+0,Rose Hill (Place Cardinal Margeot)
+1,Ebene (I.V.T.B.)
+2,Reduit (University of Mauritius)
+3,Moka (Mahatma Gandhi Institute)
+4,Gentilly
+5,Saint Pierre (Traffic Centre)
+6,Verdun (Beginning of Village)
+7,Verdun (Bar le Duc Bridge)
+8,Alma (Beginning of Village)
+9,Alma (Cemetery)
+10,"Quartier Militaire (Ex-Railway
+Station)"
+11,Providence (Beginning of Village)
+12,Providence (End of Village)
+13,Mont Ida (Government School)
+14,Medine
+15,Bel Etang
+16,Camp de Masque (Village Hall)
+17,F.U.E.L.
+18,Bonne Mere (Reservoir)
+19,Bonne Mere (Maness)
+20,Central Flacq (Bus Station)
+21,Argy
+22,Junction Belle Mare / Isidore Rose
+23,Mare La Chaux
+24,Belle Mare
+
+
+Route:,15A
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 15
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,Reduit (University of Mauritius)
+3,"Moka (Mahatma Gandhi
+Institute)"
+4,Gentilly
+5,Saint Pierre (Traffic Centre)
+6,Verdun (Beginning of Village)
+7,Verdun (Bar le Duc Bridge)
+8,Alma (Beginning of Village)
+9,Alma (Cemetery)
+10,"Quartier Militaire (Ex-Railway
+Station)"
+11,Providence (Branch Road)
+12,"Saint Julien d’Hotman
+(Overseas Glove Factory)"
+13,"Saint Julien d’Hotman (Reetoo’s
+House)"
+14,"Camp Thorel (Heeraman’s
+House)"
+15,Camp Thorel
+
+
+Route:,15C
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 15
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,Reduit (University of Mauritius)
+3,"Moka (Mahatma Gandhi
+Institute)"
+4,Gentilly
+5,Saint Pierre (Traffic Centre)
+6,Verdun (Beginning of Village)
+7,Verdun (Bar le Duc Bridge)
+8,Alma (Beginning of Village)
+9,Alma (Cemetery)
+10,"Quartier Militaire (Ex-Railway
+Station)"
+11,"Providence (Beginning of
+Village)"
+12,Providence (End of Village)
+13,Mont Ida (Government School)
+14,Medine
+15,Bel Etang
+16,Camp de Masque (Village Hall)
+17,Balance John
+18,"Camp de Masque Pave
+(Government School)"
+19,Petite Cabane
+
+
+Route:,15D
+Operator:,"Individual
+Operator"
+Location 1:,Rose Hill
+Location 2:,L’Esperance
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,Reduit (University of Mauritius)
+3,"Moka (Mahatma Gandhi
+Institute)"
+4A,Moka (Hospital)
+4,Gentilly
+5,Saint Pierre (Traffic Centre)
+6,Verdun (Beginning of Village)
+7A,Cite Alma
+7,Verdun (Bar le Duc Bridge)
+8,Alma (Beginning of Village)
+9,Alma (Cemetery)
+10,"Quartier Militaire (Ex-Railway
+Station)"
+11,Bonne Veine
+12,L’Esperance
+
+
+Route:,15F
+Operator:,"Individual
+Operator"
+Location 1:,Flacq
+Location 2:,Camp Thorel
+0,Camp Thorel
+1,"Camp Thorel (Heeraman’s
+House)"
+2,"St Julien d’Hotman (Reetoo’s
+House)"
+3A,"St Julien d’Hotman (Overseas
+Glove Factory)"
+3,Mont Ida (Government School)
+4,Medine
+5,Bel Etang
+6,Camp de Masque (Village Hall)
+7,F.U.E.L.
+8,Bonne Mere (Reservoir)
+9,Bonne Mere (Maness)
+10,Central Flacq (Bus Station)
+
+
+Route:,16
+Operator:,"Individual
+Operator"
+Location 1:,Rose Hill
+Location 2:,Central Flacq
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,Reduit (University of Mauritius)
+3,"Moka (Mahatma Gandhi
+Institute)"
+4,Gentilly
+5,Saint Pierre (Traffic Centre)
+6,Verdun (Beginning of Village)
+7,Verdun (Bar le Duc Bridge)
+8,Alma (Beginning of Village)
+9,Alma (Cemetery)
+10,"Quartier Militaire (Ex-Railway
+Station)"
+11,Providence (Beginning of Village)
+12,Providence (End of Village)
+13,Melrose (Beginning of Village)
+14,Melrose (End of Village)
+15,"Montagne Blanche (Beginning of
+Village)"
+16,"Montagne Blanche (End of
+Village)"
+17,Lesur
+18,Sebastopol
+19,Clavet
+20,L’Etoile
+21,Belle Rive
+22,Olivia (Beginning of Village)
+23,Olivia (Cemetery)
+24,Trois Ilots
+25,Bel Air (Beginning of Village)
+26,Bel Air (Police Station)
+27,Caroline
+28,Ecroignard (Beginning of Village)
+29,Ecroignard (End of Village)
+30,Bramsthan
+32,Central Flacq (Bus Station)
+
+
+Route:,16A
+Operator:,"Individual
+Operator"
+Location 1:,Rose Hill
+Location 2:,Central Flacq
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,Reduit (University of Mauritius)
+3,"Moka (Mahatma Gandhi
+Institute)"
+4,Gentilly
+5,Saint Pierre (Traffic Centre)
+6,Verdun (Beginning of Village)
+7,Verdun (Bar le Duc Bridge)
+8,Alma (Beginning of Village)
+9,Alma (Cemetery)
+10,"Quartier Militaire (Ex-Railway
+Station)"
+11,Providence (Beginning of Village)
+12,Providence (End of Village)
+13,Melrose (Beginning of Village)
+14,Melrose (End of Village)
+15,"Montagne Blanche (Beginning of
+Village)"
+16,Petit Paquet
+17,Pellegrin (Riviere Profonde)
+18,Pellegrin (Nehru’s House)
+19,Sebastopol
+20,Clavet
+21,L’Etoile
+22,Belle Rive
+23,Olivia (Beginning of Village)
+24,Olivia (Cemetery)
+25,Trois Ilots
+26,Bel Air (Beginning of Village)
+27,Bel Air (Police Station)
+28,Caroline
+29,Ecroignard (Beginning of Village)
+31,Bramsthan
+32,Boulet Rouge
+33,Central Flacq (Bus Station)
+
+
+Route:,16D
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 16
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,Reduit (University of Mauritius)
+3,"Moka (Mahatma Gandhi
+Institute)"
+4,Gentilly
+5,Saint Pierre (Traffic Centre)
+6,Verdun (Beginning of Village)
+7,Verdun (Bar le Duc Bridge)
+8,Alma (Beginning of Village)
+9,Alma (Cemetery)
+10,"Quartier Militaire (Ex-Railway
+Station)"
+11,Providence (Beginning of Village)
+12,Providence (End of Village)
+13,Mont Ida (Government School)
+14,Medine
+15,Bel Etang
+16,Camp de Masque (Village Hall)
+17,Balance John
+18,"Camp de Masque Pave
+(Government School)"
+19,"Camp de Masque Pave (End of
+Village)"
+20,Clemencia (Beginning of Village)
+21,Clemencia (Co-operative Store)
+22,Belle Rose
+23,Cite La Lucie
+24,Bel Air (Police Station)
+25,Caroline
+26,Ecroignard (Beginning of Village)
+27,Ecroignard (End of Village)
+28,Bramsthan
+29,Boulet Rouge
+30,Central Flacq (Bus Station)
+
+
+Route:,17
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Flacq
+0,Curepipe (Jan Palach North)
+1,Couvent de Lorette (Mosque)
+2,"Couacaud (Surat Distribution
+Centre)"
+3,Belle Rive (Junction)
+4,Belle Rive (Carreau Chapeau)
+5,Valetta (Junction)
+6,Valetta (End of Village)
+7,Vuillemin (Junction)
+8A,Vuillemin
+8,"Quartier Militaire (Ex-Railway
+Station)"
+9,"Providence (Beginning of
+Village)"
+10,Providence (End of Village)
+11,"Mont Ida (Government
+School)"
+12,Medine
+13,Bel Etang
+14,"Camp de Masque (Village
+Hall)"
+15,F.U.E.L.
+16,Bonne Mere (Reservoir)
+17,Bonne Mere (Maness)
+18,Central Flacq (Bus Station)
+19,Argy
+20,"Junction Belle Mare / Isidore
+Rose"
+21,Mare La Chaux
+
+
+Route:,17A
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 17
+0,Curepipe (Jan Palach North)
+1,Couvent de Lorette (Mosque)
+2,"Couacaud (Surat Distribution
+Centre)"
+3,Belle Rive (Junction)
+4,Belle Rive (Carreau Chapeau)
+5,Valetta (Junction)
+6,Valetta (End of Village)
+7,Vuillemin (Junction)
+8,"Quartier Militaire (Ex-Railway
+Station)"
+9,"Providence (Beginning of
+Village)"
+10,Providence (End of Village)
+11,Mont Ida (Government School)
+12,Medine
+13,Bel Etang
+14,Camp de Masque (Village Hall)
+15,Balance John
+16,"Camp de Masque Pave
+(Government School)"
+17,Petite Cabane
+
+
+Route:,17B
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 17
+0,Curepipe (Jan Palach North)
+1,Couvent de Lorette (Mosque)
+2,"Couacaud (Surat Distribution
+Centre)"
+3,Belle Rive (Junction)
+4,Belle Rive (Carreau Chapeau)
+5,Valetta (Junction)
+6,Lower Dagotiere (Village Hall)
+7,"Upper Dagotiere (NHDC
+Housing Estate)"
+
+
+Route:,17C
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Camp Thorel
+0,"Curepipe (Jan Palach
+North)"
+1,"Couvent de Lorette
+(Mosque)"
+2,"Couacaud (Surat
+Distribution Centre)"
+3,Belle Rive (Junction)
+4,"Belle Rive (Carreau
+Chapeau)"
+5,Valetta (Junction)
+6,Valetta (End of Village)
+7A,Vuillemin
+7,Vuillemin (Junction)
+8,"Quartier Militaire (Ex-
+Railway Station)"
+9,"Providence (Branch
+Road)"
+10,"St Julien d’Hotman
+(Overseas Glove
+Factory)"
+11,"St Julien d’Hotman
+(Reetoo’s House)"
+12,"Camp Thorel
+(Heeraman’s House)"
+13,Camp Thorel
+
+
+Route:,17D
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 17
+0,Curepipe (Jan Palach North)
+1,Couvent de Lorette (Mosque)
+2,"Couacaud (Surat Distribution
+Centre)"
+3,Belle Rive (Junction)
+4,Belle Rive (Carreau Chapeau)
+5,Valetta (Junction)
+6,Valetta (End of Village)
+7,Vuillemin (Junction)
+8,"Quartier Militaire (Ex-Railway
+Station)"
+9,Bonne Veine
+10,L’Esperance
+
+
+Route:,17E
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 17
+0,L’Esperance
+1,Bonne Veine
+2,"Quartier Militaire (Ex-Railway
+Station)"
+3,Providence (Beginning of Village)
+4,Providence (End of Village)
+5,Mont Ida (Government School)
+6,Medine
+7,Bel Etang
+8,Camp de Masque (Village Hall)
+9,F.U.E.L.
+10,Bonne Mere (Reservoir)
+11,Bonne Mere (Maness)
+12,Central Flacq (Bus Station)
+
+
+Route:,17F
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 17
+0,"Upper Dagotiere (NHDC
+Housing Estate)"
+1,Lower Dagotiere (Village Hall)
+2,Valetta (Junction)
+3,Valetta (End of Village)
+4,Vuillemin (Junction)
+5,"Quartier Militaire (Ex-Railway
+Station)"
+6,"Providence (Beginning of
+Village)"
+7,Providence (End of Village)
+8,Mont Ida (Government School)
+9,Medine
+10,Bel Etang
+11,Camp de Masque (Village Hall)
+12,F.U.E.L.
+13,Bonne Mere (Reservoir)
+14,Bonne Mere (Maness)
+15,Central Flacq (Bus Station)
+
+
+Route:,18
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,Mahebourg
+0,Central Flacq (Bus Station)
+1,Boulet Rouge
+2,Bramsthan
+3,"Ecroignard (Beginning of
+Village)"
+4,Ecroignard (End of Village)
+5,Caroline
+6,Bel Air (Police Station)
+7,Ernest Florent
+8,Beau Champ
+9,Deux Freres
+10,Quatre Soeurs
+11,Pointe aux Feuilles
+12,Grand Sable (Peeharry Shop)
+13,"Grand Sable (Ex-Marketing
+Board Store)"
+14,Pointe du Diable (View Point)
+15,Pointe du Diable (Barachois)
+16,Bambous Virieux
+17,"Anse Jonchee (Beginning of
+Village)"
+18,"Anse Jonchee (Domaine du
+Chasseur)"
+19,Providence (End of Village)
+20,"Old Grand Port (Police
+Station)"
+21,"Old Grand Port (Kam Wah
+Store)"
+22,Ferney (IVTB)
+23,Ferney (Falaise Rouge)
+24,Riviere des Creoles
+25,Petit Bel Air
+26,Mahebourg (Bus Station)
+
+
+Route:,19
+Operator:,MBT
+Location 1:,Creve Coeur
+Location 2:,Port Louis
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Junction Long Mountain
+5,Bois Pignolet
+6A,Kitchin (Ackbarally Lane)
+7A,Kitchin (End of Village)
+6,Notre Dame (End of Village)
+7,Long Mountain
+8,Creve Coeur (L’Industrie)
+9,"Creve Coeur (Government
+School)"
+10,"Creve Coeur (Roodurman’s
+House)"
+
+
+Route:,20
+Operator:,TBS
+Location 1:,Port Louis
+Location 2:,Mon Choisy
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Saint Joseph (Chapel)
+5A,"Les Petits Gamins Road
+(Deenoo Lane)"
+6A,Les Petits Gamins (Village)
+5,Arsenal
+6,Saint Andre
+7,Solitude
+8,"Triolet 8th Mile (Sewraz’s
+House)"
+9,Triolet 9th Mile
+10,"Colin / Fond du Sac Branch
+Road"
+11A,Trou aux Biches (Debarcadere)
+12A,"Trou aux Biches (Ramdenee’s
+Bungalow)"
+11,Trou aux Biches (Hotel)
+12,Mon Choisy (Public Beach)
+
+
+Route:,20A
+Operator:,TBS
+Location 1:,Port Louis
+Location 2:,Pointe aux Piments
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Saint Joseph (Chapel)
+5,Arsenal
+6,Saint Andre
+7,Solitude
+8,"Triolet 8th Mile (Sewraz’s
+House)"
+9,Camp Lilas
+10,Petite Pointe aux Piments
+11,Grande Pointe aux Piments
+
+
+Route:,20B
+Operator:,TBS
+Remark:,Service provided by buses of Route 20
+0,Triolet (Terminus)
+1,Triolet Branch Road
+2,"Triolet Branch Road (Ex-Weigh
+Bridge)"
+3,"Fond du Sac (Junction Forbach
+Road)"
+
+
+Route:,20C
+Operator:,TBS
+Remark:,Service provided by buses of Route 20
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Saint Joseph (Chapel)
+5,Arsenal
+6,Riviere Citron
+7,S.S.R.N. Hospital
+8,Saint Andre
+9,Solitude
+10,"Triolet 8th Mile (Sewraz’s
+House)"
+11,Triolet 9th Mile
+12,Colin
+13,Trou aux Biches (Hotel)
+14,Mon Choisy (Public Beach)
+15,Cannonier’s Point
+16A,Chemin Casse Ghoon
+16,"Grand Baie (La Pointe
+Supermarket)"
+17,Grand Baie (M.C.B)
+18,Grand Baie (Merville Hotel)
+19,Pereybere (1st Public Beach)
+20,Pereybere (2nd Public Beach)
+21,Cap Malheureux (Cemetery)
+22,Pavillon
+23,Petit Raffray (Fields)
+24,"Petit Raffray (Social Welfare
+Centre)"
+25,Trois Bras (Goodlands)
+26,"Goodlands (Government
+School)"
+27,St Antoine (Traffic Centre)
+
+
+Route:,20D
+Operator:,TBS
+Remark:,Service provided by buses of Route 20
+0,"Port Louis (Transportation
+Centre)"
+1,Hospice Pere Laval / Plaine Verte
+2,Pere Laval Entrance
+3,Terre Rouge (Boutique Tamarin)
+4,Saint Joseph (Chapel)
+5,Arsenal
+6,Saint Andre
+7,Solitude
+8,Triolet 8th Mile (Sewraz’s House)
+9,Bon Air
+
+
+Route:,21
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Saint Antoine
+0,"Port Louis (Transportation
+Centre)"
+1,Hospice Pere Laval / Plaine Verte
+2,Pere Laval Entrance
+3,Terre Rouge (Boutique Tamarin)
+4,Saint Joseph (Chapel)
+5,Arsenal
+6,Riviere Citron
+7,S.S.R.N. Hospital
+8,Saint Andre
+9,Morcellement Saint Andre
+10,Plaine des Papayes
+11,Belle Vue Pilot
+12,Fond du Sac (End of Village)
+13,Lower Vale (Sottise Junction)
+14,Upper Vale
+15,"Petit Raffray (Social Welfare
+Centre)"
+16,Trois Bras (Goodlands)
+17,Goodlands (Government School)
+18,Saint Antoine (Traffic Centre)
+
+
+Route:,22
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Grand Gaube
+0,"Port Louis (Transportation
+Centre)"
+1,Hospice Pere Laval / Plaine Verte
+2,Pere Laval Entrance
+3,Terre Rouge (Boutique Tamarin)
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,Pamplemousses (Eau Partagee)
+8,Mon Rocher
+9,La Louisa
+10,Belle Vue Harel
+11,Labourdonnais (Main Entrance)
+12,"Labourdonnais (Cottage
+Entrance)"
+13,Mon Loisir Rouillard (Reservoir)
+14,Rouillard (Grand Baie Junction)
+15,Trois Bras (Goodlands)
+16A,Goodlands (Government School)
+17A,Saint Antoine (Traffic Centre)
+16,Roche Terre (Ramrecha Shop)
+17,Roche Terre (Boutique Kalasse)
+18,Grand Gaube
+
+
+Route:,23
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Rivière du Rempart
+0,"Port Louis (Transportation
+Centre)"
+1,Hospice Pere Laval / Plaine Verte
+2,Pere Laval Entrance
+3,Terre Rouge (Boutique Tamarin)
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,"Pamplemousses (Canton Belle
+Eau)"
+8,The Mount (Boutique Bambous)
+9,Piton (Reservoir)
+11,Piton
+12,L’Esperance Piton
+13,Poudre d’Or Hamlet
+14,Poudre d’Or (United Basalt)
+15,Poudre d’Or (Dispensary)
+16,Poudre d’Or (Hospital)
+17,Ile d’Ambre
+18,Ile d’Ambre (Panchavati Junction)
+19A,Panchavati (Village)
+19,Pointe des Lascars (Junction)
+20,"Riviere du Rempart (Traffic
+Centre)"
+
+
+Route:,26
+Operator:,"Individual
+Operator"
+Location 1:,St Antoine
+Location 2:,Central Flacq
+0,St Antoine (Traffic Centre)
+1,Belmont
+2,Poudre d’Or
+3,Ile d’Ambre
+4,Ile d’Ambre (Panchavati Junction)
+5,Pointe des Lascars (Junction)
+6A,Riviere du Rempart
+6,"Junction Roches Noires / Coastal
+Roads"
+7A,"Roches Noires Village (Siding
+Gaud)"
+7,Roches Noires Bridge
+8,"Roches Noires (Dumee’s
+Bungalow)"
+9,Pointe d’Azur
+10,"Poste Lafayette (Cayeux’s
+Bungalow)"
+11,Poste Lafayette (Beach)
+12,Bras d’Eau
+13,Poste de Flacq (Entrance)
+14,"Poste de Flacq (Social Welfare
+Centre)"
+15,Chevreau Bridge
+16,Central Flacq (Bus Station)
+
+
+Route:,27
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Rivière du Rempart
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,"Pamplemousses (Eau
+Partagee)"
+8,Mon Rocher
+9,La Louisa
+10,Belle Vue Harel
+11,Mapou
+12,Mon Choix
+13,Piton
+15,Gokoola
+16,L’Amitie
+17,Mon Loisir (Sugar Estate)
+18,"Riviere du Rempart (Traffic
+Centre)"
+
+
+Route:,27A
+Operator:,NTC
+Location 1:,Rivière du Rempart
+Location 2:,Roches Noires
+0,"Riviere du Rempart (Traffic
+Centre)"
+1,Haute Rive
+2,"Junction Roches Noires /
+Coastal Roads"
+3,"Roches Noires Village (Siding
+Gaud)"
+
+
+Route:,27B
+Operator:,NTC
+Location 1:,Rivière du Rempart
+Location 2:,Plaine des Roches
+0,"Riviere du Rempart (Traffic
+Centre)"
+1,"Plaine des Roches
+(Government School)"
+2,Plaine des Roches (Terminus)
+
+
+Route:,28
+Operator:,TBS
+Location 1:,Triolet
+Location 2:,Riviere du Rempart
+0,Triolet (Terminus)
+1,Triolet 9th Mile
+2,Triolet 8th Mile (Sewraz’s House)
+3,Solitude
+4,Morcellement Saint Andre
+5,Junction Bon Air
+6,Plaine des Papayes
+7,Bois Mangues
+8,Belle Vue Harel
+9,Mapou
+10,Mon Choix
+11,Piton
+13,Gokoola
+14,L’Amitie
+15,Mon Loisir (Sugar Estate)
+16,"Riviere du Rempart (Traffic
+Centre)"
+
+
+Route:,28A
+Operator:,TBS
+Remark:,Service provided by buses of Route 28
+0,Triolet (Terminus)
+1,Triolet 9th Mile
+2,Triolet 8th Mile (Sewraz’s House)
+3,Solitude
+4,Morcellement Saint Andre
+5,Junction Bon Air
+6,Plaine des Papayes
+
+
+Route:,29
+Operator:,TBS
+Location 1:,Grand Baie
+Location 2:,Riviere du Rempart
+0,"Riviere du Rempart (Traffic
+Centre)"
+1,Mon Loisir (Sugar Estate)
+2,L’Amitie
+3,Gokoola
+5,Piton
+6,Mon Choix
+7,Mapou
+8,Belle Vue Harel
+9,Bois Mangues
+10,Plaine des Papayes
+11,Belle Vue Pilot
+12,Fond du Sac (End of Village)
+13,Lower Vale (Sottise Junction)
+14,Sottise
+15,Grand Baie
+
+
+Route:,30
+Operator:,UBS LTD
+Location 1:,Curepipe
+Location 2:,Dubreuil
+0,Curepipe (Jan Palach North)
+1,Couvent de Lorette (Mosque)
+2,Couacaud
+3,Belle Rive (Junction)
+4,Le Horne
+5,Piton du Milieu (Junction)
+6,"Junction Chartreuse / Dubreuil
+Roads"
+7A,Chartreuse (Ex-Tea Factory)
+8A,Junction Midlands / Chartreuse
+9A,Midlands (Demi Gros Central)
+7,Raffray No. 1
+8,Midlands Dam (Entrance)
+9,Dubreuil
+
+
+Route:,31
+Operator:,RHT
+Location 1:,Rose Hill
+Location 2:,Berthaud
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,"Boundary Road (Saint Patrick
+Church)"
+2,Boundary Road (A-Z Store)
+3,Berthaud (Bus Station)
+
+
+Route:,33
+Operator:,UBS
+Location 1:,Plaine Verte
+Location 2:,Pailles
+0,Plaine Verte
+1,"Junction Frere Felix de Valois
+/ Labourdonnais Streets"
+2A,"Junction Volcy Pougnet Street
+/ Boulevard Rivaltz"
+2,La Butte
+3,"Old Moka Road (Chinese
+Cultural Centre)"
+4,Les Guibies (Trunk Road)
+5,Pailles (Domaine Les Pailles)
+
+
+Route:,33A
+Operator:,UBS
+Location 1:,Cité Vallijee
+Location 2:,Terre Rouge
+0,Cite Vallijee (Bus Station)
+1,La Butte
+2,"Junction Frere Felix de
+Valois / Labourdonnais
+Streets"
+3,Plaine Verte
+4,Pere Laval Entrance
+5,"Terre Rouge (Morcellement
+Raffray)"
+
+
+Route:,33B
+Operator:,UBS
+Location 1:,Plaine Verte
+Location 2:,Cité Vallijee
+0,Plaine Verte
+1,"Junction Frere Felix de Valois
+/ Labourdonnais Streets"
+2,Deschartes Street / La Butte
+3,Cassis (Reserve Street)
+4A,Bain des Dames
+4,Cite Vallijee (Bus Station)
+
+
+Route:,34
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Bois Chéri
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,Nouvelle France (Police Station)
+6,Pont Colville
+7,"Beau Climat (Sugar Estate
+Office)"
+8,La Flora (Shivala)
+9,"Grand Bois (Government
+School)"
+10,Grand Bois (Chapel)
+11,Bois Cheri
+
+
+Route:,35
+Operator:,NTC
+Location 1:,Vacoas
+Location 2:,Hollyrood
+0,Vacoas (Bus Station)
+1,La Caverne (Protestant Church)
+2,Hollyrood
+
+
+Route:,37
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Mont Roches
+0,Curepipe (Jan Palach North)
+1,Eau Coulee (Neergheen Bhawan)
+2,Castel (Magasin Etoile Brillante)
+3,"Junction Saint Paul / Nalletamby
+Roads"
+4,Vacoas (S.M.F.)
+5,La Caverne (Modern Complex)
+6,Candos (Victoria Hospital)
+7,Quatre Bornes (Traffic Centre)
+8,"Boundary Road (Saint Patrick
+Church)"
+9,Plaisance (Le Quorum)
+10,Camp Levieux (NHDC Complex)
+11,Mont Roches (Co-operative Store)
+
+
+Route:,37A
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Mont Roches
+0,Curepipe (Jan Palach North)
+1,Curepipe (Darne Clinic)
+2,Floreal (Knitwear Factory)
+3,Junction Floreal / River Walk Roads
+4,Vacoas (S.M.F.)
+5,La Caverne (Modern Complex)
+6,Candos (Victoria Hospital)
+7,Quatre Bornes (Traffic Centre)
+8,"Boundary Road (Saint Patrick
+Church)"
+9,Plaisance (Le Quorum)
+10,Camp Levieux (NHDC Complex)
+11,Mont Roches (Co-operative Store)
+
+
+Route:,39
+Operator:,UBS
+Location 1:,Rose Hill
+Location 2:,Plaisance
+0,"Rose Hill (Dar-es-Salaam
+Square)"
+1,Plaisance (Football Ground)
+2,Plaisance (Ah Yow Store)
+3,"Rose Hill (Dar-es-Salaam
+Square)"
+
+
+Route:,39
+Operator:,UBS
+Location 1:,Rose Hill
+Location 2:,Stanley
+0,"Rose Hill (Dar-es-Salaam
+Square)"
+1,"Stanley (Junction Saint Anne /
+Berthaud Streets)"
+2,Plaisance (Le Quorum)
+3,"Rose Hill (Dar-es-Salaam
+Square)"
+
+
+Route:,41
+Operator:,UBS
+Location 1:,Port Louis
+Location 2:,Vallée Des Prêtres
+0,"Port Louis (Transportation
+Centre)"
+1,Plaine Verte
+2,Junction Vallee des Pretres
+3,"Vallee des Pretres (Nalletamby’s
+House)"
+4,Vallee des Pretres (Kovil)
+5,"Upper Vallee des Pretres
+(Sandokan Bar)"
+
+
+Route:,42
+Operator:,UBS
+Location 1:,Port Louis
+Location 2:,Terre Rouge
+0,"Port Louis (Transportation
+Centre)"
+1,Roche Bois (Fly Over)
+2,Roche Bois (Ex-Dockers Flats)
+3,"Baie du Tombeau (Police
+Station)"
+4,Saint Malo
+5,Cite Florida
+6,Saint Joseph (Chapel)
+7,Terre Rouge (Police Station)
+
+
+Route:,43
+Operator:,"Individual
+Operator"
+Location 1:,Transportation Centre
+Location 2:,Victoria Square
+0,"Port Louis (Transportation
+Centre)"
+1,"Plaine Verte (Casablanca
+Shop)"
+2A,"Junction Diego Garcia /
+Magon Streets"
+2,Plaine Verte
+3,"Junction Frere Felix de Valois
+/ Labourdonnais Streets"
+4,"Victoria Square (Dumas
+Street)"
+
+
+Route:,44
+Operator:,UBS
+Location 1:,Curepipe
+Location 2:,Bigara
+0,Curepipe (Jan Palach North)
+1,Forest Side (Post Office)
+2,"La Brasserie (Experimental
+Station)"
+3,Bigara (Wireless Station)
+
+
+Route:,45
+Operator:,UBS LTD
+Location 1:,Rose Hill
+Location 2:,Albion
+0,"Rose Hill (Dar-es-Salaam
+Square)"
+1,"Hugnin Road (Rose Hill
+Transport Garage)"
+2,"Mont Roches (Co-operative
+Store)"
+3,Saint Martin (Cemetery)
+4,Canot
+5,Gros Cailloux
+6,Petite Riviere (Foyer Piat)
+7,Petite Riviere (End of Village)
+8,"Belle Vue (Pont La Riviere
+Boulene)"
+9A,"Belle Vue (Stone and Bricks
+Limited)"
+10A,Belle Vue (Terminus)
+9,Albion (Police Station)
+10,Albion (Bus Station)
+11,Albion (Mon Plaisir)
+
+
+Route:,46
+Operator:,"Individual
+Operator"
+Location 1:,Mahebourg
+Location 2:,Blue Bay
+0,Mahebourg (Bus Station)
+1,Cite La Chaux
+2,Fond Blanc (Ex-Sand Quarry)
+3,Pointe d’Esny
+4,Blue Bay (Public Beach)
+
+
+Route:,47
+Operator:,UBS
+Location 1:,Transportation Centre
+Location 2:,Cité Vallijee
+0,"Port Louis (Transportation
+Centre)"
+1,Cassis (Reserve Street)
+2A,Bain des Dames
+2,Cite Vallijee (Bus Station)
+
+
+Route:,48A
+Operator:,UBS
+Location 1:,Port Louis
+Location 2:,Cité La Cure
+0,"Port Louis (Transportation
+Centre)"
+1,Plaine Verte
+2,Junction Vallee des Pretres
+3,Cite La Cure (Traffic Centre)
+
+
+Route:,50
+Operator:,UBS LTD
+Location 1:,Port Louis
+Location 2:,Cité Madeleine
+0,Port Louis (Transportation Centre)
+1,"Junction Frere Felix de Valois /
+Bourguignon Streets"
+2,Tranquebar (Cite Madeleine)
+
+
+Route:,51
+Operator:,TBS
+Location 1:,Port Louis
+Location 2:,Pointe aux Sables
+0,Port Louis (Transportation Centre)
+1,"Brabant Street (Ex-Garage
+Renault)"
+2,G.R.N.W.
+3A,La Tour Koenig
+3,Pointe aux Sables (Terrasson)
+4,"Pointe aux Sables (Cite
+Debarcadere)"
+5,"Pointe aux Sables (Morcellement
+Rey / Ex-Police Station)"
+6,Pointe aux Sables (Terminus)
+
+
+Route:,52
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Medine
+0,Port Louis (Transportation Centre)
+1,"Brabant Street (Ex-Garage
+Renault)"
+2,G.R.N.W.
+3,Camp Benoit
+4,Petite Riviere (Police Station)
+5,Petite Riviere (Foyer Piat)
+6,Gros Cailloux
+7,Canot
+8,"Bambous (Roches Brunes Youth
+Training Centre)"
+9,"Bambous (Junction Black River /
+Geoffroy Roads)"
+10,Bambous (Dragon Store)
+11,Medine
+
+
+Route:,52A
+Operator:,NTC
+Remark:,Service provided by buses of Route 52
+0,Port Louis (Transportation Centre)
+1,"Brabant Street (Ex-Garage
+Renault)"
+2,G.R.N.W.
+3,Camp Benoit
+4,Petite Riviere (Police Station)
+5,Petite Riviere (End of Village)
+6,"Belle Vue (Pont La Riviere
+Boulene)"
+7A,"Belle Vue (Stone and Bricks
+Limited)"
+8A,Belle Vue (Terminus)
+7,Albion (Police Station)
+8,Albion (Bus Station)
+9,Albion (Mon Plaisir)
+
+
+Route:,52C
+Operator:,NTC
+Remark:,Service provided by buses of Route 52
+0,Port Louis (Transportation Centre)
+1,"Brabant Street (Ex-Garage
+Renault)"
+2,G.R.N.W.
+3,Camp Benoit
+4,Petite Riviere (Police Station)
+5,Petite Riviere (Foyer Piat)
+6,Gros Cailloux
+7,Canot
+8,"Bambous (Roches Brunes Youth
+Training Centre)"
+9,"Bambous (Junction Black River /
+Geoffroy Roads)"
+10,Bambous (NHDC Complex)
+
+
+Route:,53
+Operator:,"Individual
+Operator"
+Location 1:,Saint Antoine
+Location 2:,Central Flacq
+0,Saint Antoine (Traffic Centre)
+1,Belmont
+2,Poudre d’Or
+3,Ile d’Ambre
+4,Ile d’Ambre (Panchavati Junction)
+5,"Haute Rive (Pointe des Lascars
+Junction)"
+6,Riviere du Rempart
+7,Mon Loisir (Sugar Estate)
+8,Belle Vue Maurel
+9A,Amaury (Social Welfare Centre)
+9,"Junction Laventure / Bois Jacquot
+Roads"
+10,Laventure (Football Ground)
+11,Laventure (Magasin Bon Marche)
+12,"Grande Retraite (Junction
+Laventure / Flacq Roads)"
+13,Petite Retraite
+14,Pont Blanc
+15,Constance (Football Ground)
+16A,Saint Remy
+16,Central Flacq (Bus Station)
+
+
+Route:,55
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,Palmar
+0,Central Flacq (Bus Station)
+1,Boulet Rouge
+2,Bramsthan
+3,Camp Ithier (Beginning of Village)
+6,"Trou d’Eau Douce (Beginning of
+Village)"
+7,Trou d’Eau Douce (End of Village)
+8,"Palmar (Livestock Breeding
+Centre)"
+9,Palmar (Temple)
+
+
+Route:,55A
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,Isidore Rose
+0,Central Flacq (Bus Station)
+1,Argy
+2,Riche Mare
+3,Bramsthan
+4,Camp Ithier (Beginning of Village)
+5,Camp Ithier (Government School)
+6,Isidore Rose
+
+
+Route:,55B
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,Palmar
+0,Central Flacq (Bus Station)
+1,Argy
+2,Riche Mare
+3,Bramsthan
+4,Camp Ithier (Beginning of Village)
+7,"Trou d’Eau Douce (Beginning of
+Village)"
+8,Trou d’Eau Douce (End of Village)
+9,"Palmar (Livestock Breeding
+Centre)"
+10,Palmar (Temple)
+
+
+Route:,56
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,Palmar
+0,Central Flacq (Bus Station)
+1,Boulet Rouge
+2,Bramsthan
+3,Ecroignard (Beginning of Village)
+4,Ecroignard (End of Village)
+5,Caroline
+6,Bel Air (Police Station)
+7,Ernest Florent
+8,Beau Champ
+9,G.R.S.E.
+
+
+Route:,57
+Operator:,"Individual
+Operator"
+Location 1:,Quatre Bornes
+Location 2:,Wolmar
+0,"Quatre Bornes (Traffic
+Centre)"
+1,La Louise
+2,Palma (Government School)
+3,"Palma (Junction Bassin
+Estate)"
+4,Beaux Songes (Reservoir)
+5,"Montee Bol (Junction
+Geoffroy Road)"
+6,"Bambous (Mangues Vert
+Doux)"
+7,"Bambous (Junction Black
+River / Geoffroy Roads)"
+8,Bambous (Dragon Store)
+9,Junction Flic en Flac
+10,"Junction Flic en Flac / Anna
+Estate Roads"
+11,"Flic en Flac (Government
+School)"
+12,"Flic en Flac (Golden Beach
+Restaurant)"
+13,Wolmar
+
+
+Route:,57A
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 57
+0,Quatre Bornes (Traffic Centre)
+1,La Louise
+2,Palma (Government School)
+3,"Palma (Junction Bassin
+Estate)"
+4,Beaux Songes (Reservoir)
+5,Cascavelle
+
+
+Route:,59
+Operator:,UBS
+Location 1:,Rose Hill
+Location 2:,Roches Brunes
+0,Rose Hill (Dar-es-Salaam Square)
+1,"Hugnin Road (Rose Hill Transport
+Garage)"
+2,Mont Roches (Co-operative Store)
+3,Roches Brunes (Reservoir)
+
+
+Route:,60
+Operator:,NTC
+Location 1:,Rose Belle
+Location 2:,Bois Cheri
+0,Rose Belle
+1,Jawaharlall Nehru Hospital
+2,Pont Colville
+3,Beau Climat (Sugar Estate Office)
+4,La Flora (Shivala)
+5,Grand Bois (Government School)
+6,Grand Bois (Chapel)
+7,Bois Cheri
+
+
+Route:,61
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Camp Diable
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,Nouvelle France (Police Station)
+6,Pont Colville
+7,Beau Climat (Sugar Estate Office)
+8,La Flora (Shivala)
+10,Junction Riviere du Poste
+11,Riviere Dragon
+12,Riche Bois
+13,Camp Diable
+14,Saint Amand Bridge
+15,Chateau Benares
+
+
+Route:,61A
+Operator:,NTC
+Remark:,Service provided by buses of Route 61
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,Nouvelle France (Police Station)
+6,Pont Colville
+7,Beau Climat (Sugar Estate Office)
+8,La Flora (Shivala)
+10,Junction Riviere du Poste
+11,Riviere Dragon
+12,Britannia
+13,Tyack (Vishnu Mandir)
+14,Riviere des Anguilles
+15,Batimarais
+16,Chateau Benares
+17A,Benares Village
+17,Saint Amand Bridge
+18,Camp Diable
+
+
+Route:,62
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Rivière du Poste
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,Nouvelle France (Police Station)
+6,Union Park (Cluny Junction)
+7,Union Park (Village Hall)
+8A,Jawaharlall Nehru Hospital
+8,Rose Belle (Post Office)
+9,Rose Belle (Gebert)
+10,"New Grove Branch Road
+(Community Health Centre)"
+11,Gros Billot (Samputh’s House)
+12,Mare Tabac (Bridge)
+13,Joli Bois (Sugar Estate Office)
+14,Riviere du Poste (Kalimaye)
+15,Riviere du Poste (Terminus)
+
+
+Route:,63
+Operator:,NTC
+Location 1:,Roches Noires
+Location 2:,SSRN Hospital
+0,Roches Noires (Siding Gaud)
+1,"Junction Roches Noires / Coastal
+Roads"
+2,Haute Rive
+3,Riviere du Rempart
+4,Mon Loisir (Sugar Estate)
+5,Belle Vue Maurel
+6A,"Junction Laventure / Bois Jacquot
+Roads"
+7A,Amaury (Social Welfare Centre)
+6,Phoolyar Nagar
+7,Maurel Estate
+8,Mon Songe
+9,Petite Julie
+10,Grande Rosalie
+11,Petite Rosalie
+12,The Mount (Boutique Bambous)
+13,"Pamplemousses (Canton Belle
+Eau)"
+14,Beau Plan (L’Aventure du Sucre)
+15,S.S.R.N. Hospital
+
+
+Route:,64
+Operator:,UBS
+Location 1:,Forest Side
+Location 2:,Les Casernes
+0,Les Casernes (Housing Estate)
+1,"Botanical Gardens Street (Forest
+Department Head Quarters)"
+2,Curepipe (Jan Palach North)
+3,Forest Side (Forum Complex)
+
+
+Route:,65
+Operator:,UBS
+Remark:,Service provided by buses of Route 65B
+0,Vacoas (Bus Station)
+1,"Junction Saint Paul / Nalletamby
+Roads"
+2,Phoenix (Junction Highlands Road)
+3,Highlands (Football Ground)
+4,"Camp Fouquereaux (Junction
+Hermitage Road)"
+5,Hermitage
+
+
+Route:,65A
+Operator:,UBS LTD
+Location 1:,Cinq Arpents
+Location 2:,Quatre Bornes
+0,Cinq Arpents
+1A,Belle Terre
+1,Highlands (Football Ground)
+2,Phoenix (Junction Highlands Road)
+3,"Junction Saint Paul / Nalletamby
+Roads"
+4,Vacoas (Bus Station)
+5,Phoenix (Garderie Saint Michel)
+6,Carreau La Liane (Woodun’s House)
+7,Candos (Victoria Hospital)
+8,Quatre Bornes (Traffic Centre)
+
+
+Route:,65B
+Operator:,UBS
+Location 1:,Hermitage
+Location 2:,Quatre Bornes
+0,Hermitage
+1,"Camp Fouquereaux (Junction Hermitage
+Road)"
+2,Highlands (Football Ground)
+3,Phoenix (Junction Highlands Road)
+4,Junction Saint Paul / Nalletamby Roads
+5,Vacoas (Bus Station)
+6,Phoenix (Garderie Saint Michel)
+7,Carreau La Liane (Woodun’s House)
+8,Candos (Victoria Hospital)
+9,Quatre Bornes (Traffic Centre)
+
+
+Route:,66
+Operator:,"Individual
+Operator"
+Location 1:,Vacoas
+Location 2:,Bord Cascade
+0,Vacoas (Bus Station)
+1,Reunion (Cantin Government School)
+2,Glen Park (Shivala)
+3,Henrietta (Chapel)
+4,Bord Cascade
+
+
+Route:,66A
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 66
+0,Vacoas (Bus Station)
+1,Reunion (Cantin Government School)
+2,Glen Park (Shivala)
+3,La Marie (Entrance)
+4,La Marie (Terminus)
+
+
+Route:,66B
+Operator:,"Individual
+Operator"
+Location 1:,Vacoas
+Location 2:,Curepipe
+0,Vacoas (Bus Station)
+1,Reunion (Cantin Government School)
+2,Glen Park (Shivala)
+3,La Marie (Entrance)
+4,Junction La Marie / La Brasserie Roads
+5,Bigara (Wireless Station)
+6,La Brasserie (Experimental Station)
+7,Forest Side (Post Office)
+8,Curepipe (Jan Palach South)
+
+
+Route:,66C
+Operator:,NTC
+Remark:,"One trip only on Sundays
+Special service on specific occasions"
+0,Vacoas (Bus Station)
+1,Reunion (Cantin Government School)
+2,Glen Park (Shivala)
+3,La Marie (Entrance)
+4,Junction La Marie / La Brasserie Roads
+5,Beard
+6,Mare aux Vacoas
+7,Plaine Sophie (Forest Office)
+8,Gower (Junction Mare Longue)
+9,"Junction Grand Bassin / Plaine
+Champagne Roads"
+10,Grand Bassin (Bridge)
+11,Grand Bassin (Terminus)
+
+
+Route:,68
+Operator:,UBS
+Location 1:,Rose Hill
+Location 2:,Curepipe
+0,Rose Hill (Dar-es-Salaam Square)
+1,Boundary Road (Bijou Magique)
+2,Ollier Avenue (Gooly Store)
+3,La Louise
+4,Candos (Victoria Hospital)
+5,La Caverne (Modern Complex)
+6,Vacoas (S.M.F.)
+7,Junction Floreal / Riverwalk Roads
+8,Floreal (Knitwear Factory)
+9,Curepipe Road (Darne Clinic)
+10,Curepipe (Jan Palach North)
+
+
+Route:,68A
+Operator:,UBS
+Location 1:,Rose Hill
+Location 2:,Curepipe
+0,Rose Hill (Dar-es-Salaam Square)
+1,Boundary Road (Bijou Magique)
+2,Ollier Avenue (Gooly Store)
+3,La Louise
+4,Candos (Victoria Hospital)
+5,La Caverne (Modern Complex)
+6,Vacoas (S.M.F.)
+7,Junction Floreal / Riverwalk Roads
+8,Floreal (Knitwear Factory)
+9,Curepipe Road (Darne Clinic)
+10,Curepipe (Jan Palach North)
+
+
+Route:,69
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Beaux Songes
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,Beau Bassin (Cercle de Beau Bassin)
+7,Rose Hill (Place Cardinal Margeot)
+8,Belle Rose (Pepsi Cola)
+9,Quatre Bornes (Cite Saint Jean)
+10,La Louise
+11,Palma (Government School)
+12,Palma (Junction Bassin Estate)
+13,Beaux Songes (Reservoir)
+
+
+Route:,70
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Cité La Cure
+0,Port Louis (Transportation Centre)
+1,Roche Bois (Fly Over)
+2,Cocoterie Road (Corner Store)
+3,Sainte Croix (Pere Laval Church)
+4,Cite La Cure (Traffic Centre)
+
+
+Route:,71
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Rivière du Rempart
+0,Port Louis (Transportation Centre)
+1,Hospice Pere Laval / Plaine Verte
+2,Pere Laval Entrance
+3,Terre Rouge (Boutique Tamarin)
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,Pamplemousses (Eau Partagee)
+8,Mon Rocher
+9,La Louisa
+10,Belle Vue Harel
+11,Labourdonnais (Estate)
+12,Cottage (Beginning of Village)
+13,L’Esperance (Gate)
+14,Poudre d’Or Hamlet
+15,Poudre d’Or (United Basalt)
+16,Poudre d’Or (Dispensary)
+17,Poudre d’Or (Hospital)
+
+
+Route:,73
+Operator:,UBS LTD
+Location 1:,Curepipe
+Location 2:,Hermitage
+0,Curepipe (Jan Palach North)
+1,"Eau Coulee (Neergheen
+Bhawan)"
+2,"Junction Camp Fouquereaux /
+Royal Roads"
+3,"Camp Fouquereaux (Saint
+Antoine)"
+4A,Cinq Arpents
+4,Hermitage
+
+
+Route:,73A
+Operator:,UBS
+Location 1:,Curepipe
+Location 2:,Hermitage
+0,Curepipe (Jan Palach North)
+1,"Eau Coulee (Neergheen
+Bhawan)"
+2,"Junction Camp Fouquereaux /
+Royal Roads"
+3,"Camp Fouquereaux (Saint
+Antoine)"
+4A,Cinq Arpents
+4,Hermitage
+
+
+Route:,75
+Operator:,TBS
+Location 1:,Pamplemousses
+Location 2:,Triolet
+0,Pamplemousses
+1,Beau Plan (L’Aventure du Sucre)
+2,S.S.R.N. Hospital
+3,Saint Andre
+4,Solitude
+5,Triolet 8th Mile (Sewraz’s House)
+6,Triolet 9th Mile
+7,Triolet (Terminus)
+
+
+Route:,75A
+Operator:,75A
+Remark:,Service provided by buses of Route 75
+0,Pamplemousses
+1,Beau Plan (L’Aventure du Sucre)
+2,S.S.R.N. Hospital
+
+
+Route:,76
+Operator:,UBS
+Location 1:,Port Louis
+Location 2:,Cité Roche Bois
+0,"Port Louis (Transportation
+Centre)"
+1,Roche Bois (Saint Martin)
+2A,Mer Rouge (Freeport)
+2,Cite Roche Bois
+
+
+Route:,77
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Terre Rouge
+0,"Port Louis (Transportation
+Centre)"
+1,Roche Bois (Fly Over)
+2,Roche Bois (Ex-Dockers Flats)
+3,"Baie du Tombeau (Police
+Station)"
+4,Saint Malo
+5,Cite Florida
+6,Saint Joseph (Chapel)
+7,Terre Rouge (Police Station)
+
+
+Route:,79
+Operator:,NTC
+Location 1:,Bois Cheri
+Location 2:,Rose Belle
+0,Rose Belle
+1,Jawaharlall Nehru Hospital
+2,Wireless Road (Beginning)
+3,Wireless Road (End)
+4,La Flora (Shivala)
+5,"Grand Bois (Government
+School)"
+6,Grand Bois (Chapel)
+7,Bois Cheri
+
+
+Route:,80
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Pellegrin
+0,"Curepipe (Jan Palach
+North)"
+1,"Couvent de Lorette
+(Mosque)"
+2,"Couacaud (Surat
+Distribution Centre)"
+3,Belle Rive (Junction)
+4,"Belle Rive (Carreau
+Chapeau)"
+5,Valetta (Junction)
+6,Valetta (End of Village)
+7,Vuillemin (Junction)
+8,"Quartier Militaire (Ex-
+Railway Station)"
+9,"Providence (Beginning of
+Village)"
+10,Providence (End of Village)
+11,"Melrose (Beginning of
+Village)"
+12,Melrose (End of Village)
+13,"Montagne Blanche
+(Beginning of Village)"
+14,"Montagne Blanche (End of
+Village)"
+15,Lesur
+16,Sebastopol
+17,Pellegrin (Nehru’s House)
+18,Pellegrin (Riviere Profonde)
+
+
+Route:,80A
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 80
+0,"Curepipe (Jan Palach
+North)"
+1,"Couvent de Lorette
+(Mosque)"
+2,"Couacaud (Surat
+Distribution Centre)"
+3,Belle Rive (Junction)
+4,"Belle Rive (Carreau
+Chapeau)"
+5,Valetta (Junction)
+6,Valetta (End of Village)
+7,Vuillemin (Junction)
+8,"Quartier Militaire (Ex-
+Railway Station)"
+9,"Providence (Beginning of
+Village)"
+10,Providence (End of Village)
+11,"Melrose (Beginning of
+Village)"
+12,Melrose (End of Village)
+13,"Montagne Blanche
+(Beginning of Village)"
+14,"Montagne Blanche (End of
+Village)"
+15,Lesur
+16,Sebastopol
+17,Clavet
+18,L’Etoile
+19,Belle Rive
+20,Olivia (Beginning of Village)
+21,Olivia (Cemetery)
+22,Trois Ilots
+23,"Bel Air (Beginning of
+Village)"
+24,Bel Air (Police Station)
+
+
+Route:,81
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Allée Brillant
+0,Allee Brillant (Sandokan Store)
+1,Engrais Martial (Corner Store)
+2,Charles Renaud Street (Ah Yee Shop)
+3,Curepipe (Jan Palach North)
+4,Forest Side (Forum Complex)
+
+
+Route:,82
+Operator:,TBS
+Location 1:,Port Louis
+Location 2:,Saint Antoine
+0,"Port Louis (Transportation
+Centre)"
+1,Hospice Pere Laval / Plaine Verte
+2,Pere Laval Entrance
+3,Terre Rouge (Boutique Tamarin)
+4,Saint Joseph (Chapel)
+5,Arsenal
+6,Saint Andre
+7,Solitude
+8,Triolet 8th Mile (Sewraz’s House)
+9,Triolet 9th Mile
+10,Colin
+11,Trou aux Biches (Hotel)
+12,Mon Choisy
+13,Cannonier’s Point
+14,"Grand Baie (La Pointe
+Supermarket)"
+15,Grand Baie (M.C.B.)
+16,Grand Baie (Merville Hotel)
+17,Pereybere (1st Public Beach)
+18,Pereybere (2nd Public Beach)
+19,Cap Malheureux (Cemetery)
+20A,Pavillon
+20,Cap Malheureux (Church)
+21,Sans Souci Rouillard
+22,Saint Francois
+23,Trois Bras (Goodlands)
+25,Saint Antoine (Traffic Centre)
+
+
+Route:,84
+Operator:,NTC
+Location 1:,Plaines des Roches
+Location 2:,SSRN Hospital
+0,Plaine des Roches
+1,"Plaine des Roches (Government
+School)"
+2,Riviere du Rempart
+3,Mon Loisir (Sugar Estate)
+4,L’Amitie
+5,Gokoola
+6,Piton
+7,Mon Choix
+8,Mapou
+9,Belle Vue Harel
+10,La Louisa
+11,Mon Rocher
+12,Pamplemousses (Eau Partagee)
+13,Beau Plan (L’Aventure du Sucre)
+14,S.S.R.N. Hospital
+15,Plaine des Roches
+
+
+Route:,85
+Operator:,NTC
+Location 1:,Rivière Du Rempart
+Location 2:,Port Louis
+0,"Riviere du Rempart (Traffic
+Centre)"
+1,Schoenfeld (Madaya’s House)
+2,Schoenfeld (Estate Office)
+3,Poudre d’Or Hamlet
+4,L’Esperance Piton
+5,Piton
+6,Mon Choix
+7,Mapou
+8,Belle Vue Harel
+9,La Louisa
+10,Mon Rocher
+11,Pamplemousses (Eau Partagee)
+12,Beau Plan (L’Aventure du Sucre)
+13,S.S.R.N. Hospital
+14,Riviere Citron
+15,Arsenal
+16,Saint Joseph (Chapel)
+17,Terre Rouge (Boutique Tamarin)
+18,Pere Laval Entrance
+19,"Hospice Pere Laval / Plaine
+Verte"
+20,"Port Louis (Transportation
+Centre)"
+
+
+Route:,86
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Rivière Du Rempart
+0,"Riviere du Rempart (Traffic
+Centre)"
+1,Pointe des Lascars (Junction)
+2,"Ile d’Ambre (Panchavati
+Junction)"
+3,Ile d’Ambre
+4,Poudre d’Or (Hospital)
+5,Poudre d’Or (Dispensary)
+6,Poudre d’Or (United Basalt)
+7,L’Esperance Trebuchet
+8,Poudre d’Or Hamlet
+9,L’Esperance Piton
+10,Piton
+11,Piton (Reservoir)
+12,The Mount (Boutique Bambous)
+13,"Pamplemousses (Canton Belle
+Eau)"
+14,Beau Plan (L’Aventure du Sucre)
+15,S.S.R.N. Hospital
+16,Riviere Citron
+17,Arsenal
+18,Saint Joseph (Chapel)
+19,Terre Rouge (Boutique Tamarin)
+20,Pere Laval Entrance
+21,"Plaine Verte / Hospice Pere
+Laval"
+22,"Port Louis (Transportation
+Centre)"
+23,"Riviere du Rempart (Traffic
+Centre)"
+
+
+Route:,87
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,St Hubert
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,"Nouvelle France (Police
+Station)"
+6,Union Park (Cluny Junction)
+7,Union Park (Village Hall)
+8,Jawaharlall Nehru Hospital
+9,"Rose Belle (Junction
+Jawaharlall Nehru Hospital /
+Royal Roads)"
+10,Rose Belle (Gebert)
+11,"New Grove (Riche en Eau
+Junction)"
+12,Deux Bras
+13,Astroea Bridge
+14,Mare Chicose
+15,Nema Bridge
+16,Riche En Eau (Sugar Factory)
+17,"Saint Hilaire (Chateau
+Rochecouste-Grand Cour)"
+18,"Saint Hubert (Ex-Samputh
+Shop)"
+19,Saint Hubert (Terminus)
+
+
+Route:,88
+Operator:,"Individual
+Operator"
+Location 1:,Congomah
+Location 2:,Port Louis
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Saint Joseph (Chapel)
+5,Arsenal
+6,Riviere Citron
+7,S.S.R.N. Hospital
+8,"Beau Plan (L’Aventure du
+Sucre)"
+9,"Camp des Embrevades
+(Market)"
+10,"Camp des Embrevades (End
+of Village)"
+11,Junction Ilot
+12A,Ilot
+12,"D’Epinay (Beginning of
+Village)"
+13,D’Epinay (Kalimaye)
+14,"Congomah (Government
+School)"
+15,Congomah (Terminus)
+
+
+Route:,89
+Operator:,MBT
+Location 1:,Camp La Boue
+Location 2:,Port Louis
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Junction Long Mountain
+5,Bois Pignolet
+6,Notre Dame (End of Village)
+7,Long Mountain
+8,Camp La Boue
+
+
+Route:,89A
+Operator:,MBT
+Location 1:,Port Louis
+Location 2:,Eau Bouillie
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Junction Long Mountain
+5,Bois Pignolet
+6,Notre Dame (End of Village)
+7,Long Mountain
+10,Les Mariannes
+11,Eau Bouillie
+
+
+Route:,89B
+Operator:,MBT
+Remark:,Service provided by buses of Route 89
+0,Camp La Boue
+3,Les Mariannes
+4,Eau Bouillie
+
+
+Route:,Route not found
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 9
+0,"Curepipe (Jan Palach
+South)"
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction
+Coriolis / Royal Roads)"
+4,Lapeyre Hill
+5,"Nouvelle France (Police
+Station)"
+6,"Union Park (Cluny
+Junction)"
+7,Union Park (Village Hall)
+8A,Jawaharlall Nehru Hospital
+8,"Rose Belle (Junction
+Jawaharlall Nehru Hospital
+/ Royal Roads)"
+9,Rose Belle (Gebert)
+10,La Rosa
+11,"Mare d’Albert (Government
+School)"
+12,"Mare d’Albert (United
+Basalt)"
+13,"Plaine Magnien (Police
+Station)"
+14,Plaisance (Grotto)
+15A,S.S.R. International Airport
+15,Madame Dayla
+16,Beau Vallon
+17,"Blue Bay Link Road (2nd
+Bridge)"
+18,"Blue Bay (Entrance to
+Morcellement)"
+19,Blue Bay (Public Beach)
+
+
+Route:,93
+Operator:,"Individual
+Operator"
+Location 1:,Camp Thorel
+Location 2:,Port Louis
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,"Reduit (University of
+Mauritius)"
+8,"Moka (Mahatma Gandhi
+Institute)"
+9,Gentilly
+10,Saint Pierre (Traffic Centre)
+11,"Verdun (Beginning of
+Village)"
+12,Verdun (Bar Le Duc Bridge)
+13,Alma (Beginning of Village)
+14,Alma (Cemetery)
+15,"Quartier Militaire (Ex-
+Railway Station)"
+16,Providence (Branch Road)
+17,"Saint Julien d’Hotman
+(Overseas Glove Factory)"
+18,"Saint Julien d’Hotman
+(Reetoo’s House)"
+19,"Camp Thorel (Heeraman’s
+House)"
+20,Camp Thorel (Terminus)
+
+
+Route:,93A
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,L’Esperance
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,Reduit (University of Mauritius)
+8,Moka (Mahatma Gandhi Institute)
+9,Gentilly
+10,Saint Pierre (Traffic Centre)
+11,Verdun (Beginning of Village)
+12,Verdun (Bar Le Duc Bridge)
+13,Alma (Beginning of Village)
+14,Alma (Cemetery)
+15,"Quartier Militaire (Ex-Railway
+Station)"
+16,Bonne Veine
+17,L’Esperance
+
+
+Route:,94
+Operator:,"Individual
+Operator"
+Location 1:,Rivière Du Rempart
+Location 2:,Saint Antoine
+0,"Riviere du Rempart (Traffic
+Centre)"
+1,Mon Loisir (Sugar Estate)
+2,L’Amitie
+3,Gokoola
+5,Piton
+6,L’Esperance Piton
+7,Poudre d’Or Hamlet
+8,L’Esperance Trebuchet
+9,"Cottage (Social Welfare
+Centre)"
+10,"Cottage (Mahatma Gandhi
+Road)"
+12,Saint Antoine (Traffic Centre)
+
+
+Route:,95
+Operator:,TBS
+Location 1:,Pamplemousses
+Location 2:,Saint Antoine
+0,Pamplemousses
+1,"Beau Plan (L’Aventure du
+Sucre)"
+2,S.S.R.N. Hospital
+3,Saint Andre
+4,Solitude
+5,"Triolet 8th Mile (Sewraz’s
+House)"
+6,Triolet 9th Mile
+7,Colin
+8,Trou aux Biches (Hotel)
+9,"Mon Choisy (Public
+Beach)"
+10,Cannonier’s Point
+11,"Grand Baie (La Pointe
+Supermarket)"
+12,Grand Baie (M.C.B.)
+13,"Grand Baie (Merville
+Hotel)"
+14,"Pereybere (1st Public
+Beach)"
+15,"Pereybere (2nd Public
+Beach)"
+16,"Cap Malheureux
+(Cemetery)"
+17A,Pavillon
+17,Cap Malheureux (Church)
+18,Sans Souci Rouillard
+19,Saint Francois
+20,Calodyne
+21,Grand Gaube (Terminus)
+22,"Roche Terre (Boutique
+Kalasse)"
+23,"Roche Terre (Ramrecha
+Shop)"
+24,"Goodlands (Government
+School)"
+
+
+Route:,99
+Operator:,"Individual
+Operator"
+Location 1:,Mahebourg
+Location 2:,Trois Boutiques
+0,Mahebourg (Bus Station)
+1,Beau Vallon
+2,Madame Dayla
+3,Plaisance (Grotto)
+4,Plaine Magnien
+6,Carreau Esnouf
+7,Mon Desert (Village)
+8,"Kenya /Camp Carol (Village
+Hall)"
+9A,Le Bouchon
+9,Carreau Accacia
+10,Sauve Terre
+11,Trois Boutiques
+
+
+Route:,101
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,SSRN Hospital
+0,Central Flacq (Bus Station)
+1,Constance (Football Ground)
+2,Pont Blanc
+3,Petite Retraite
+4A,Laventure (Crematory)
+4B,Laventure (Village Hall)
+4C,Laventure (End of Village)
+4,Grande Retraite
+5,Bon Accueil
+6,"Brisee Verdiere (Latapie
+Branch Road)"
+7,"Brisee Verdiere (Atma
+Shopping Centre)"
+8,Mare d’Australia
+9,"Villebague (Beginning of
+Village)"
+10,"Villebague (La Nicoliere
+Junction)"
+11,Grande Rosalie
+12,Petite Rosalie
+13,"The Mount (Boutique
+Bambous)"
+14,"Pamplemousses (Canton
+Belle Eau)"
+15,"Beau Plan (L’Aventure du
+Sucre)"
+16,S.S.R.N. Hospital
+
+
+Route:,101A
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,SSRN Hospital
+0,Central Flacq (Bus Station)
+1,Bonne Mere (Maness)
+2,Bonne Mere (Reservoir)
+3,F.U.E.L.
+4,La Roche
+5,"Saint Julien (Government
+School)"
+6,Lallmatie
+7,Bon Accueil
+8,"Brisee Verdiere (Latapie
+Branch Road)"
+9,"Brisee Verdiere (Atma
+Shopping Centre)"
+10,Mare d’Australia
+11,"Villebague (Beginning of
+Village)"
+12,"Villebague (La Nicoliere
+Junction)"
+13,Grande Rosalie
+14,Petite Rosalie
+15,"The Mount (Boutique
+Bambous)"
+16,"Pamplemousses (Canton
+Belle Eau)"
+17,"Beau Plan (L’Aventure du
+Sucre)"
+18,S.S.R.N. Hospital
+
+
+Route:,101C
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,SSRN Hospital
+0,Central Flacq (Bus Station)
+1,Bonne Mere (Maness)
+2,Bonne Mere (Reservoir)
+3,F.U.E.L.
+4,La Roche
+5,"Saint Julien (Government
+School)"
+6,Lallmatie
+7,Belvedere
+8,"Brisee Verdiere (Atma
+Shopping Centre)"
+9,Mare d’Australia
+10,"Villebague (Beginning of
+Village)"
+11,"Villebague (La Nicoliere
+Junction)"
+12,Grande Rosalie
+13,Petite Rosalie
+14,"The Mount (Boutique
+Bambous)"
+15,"Pamplemousses (Canton
+Belle Eau)"
+16,"Beau Plan (L’Aventure du
+Sucre)"
+17,S.S.R.N. Hospital
+
+
+Route:,102
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Curepipe
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,"Belle Etoile (Tamil Social
+Hall)"
+5,"Beau Bassin (Vinayak
+Mandir)"
+6,"Beau Bassin (Cercle de
+Beau Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Belle Rose (Pepsi Cola)
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,Phoenix (Police Station)
+12,Saint Paul (Magasin Lotus)
+13,"Junction Floreal / Riverwalk
+Roads"
+14,Floreal (Knitwear Factory)
+15,"Curepipe Road (Darne
+Clinic)"
+16,Curepipe (Jan Palach North)
+
+
+Route:,103
+Operator:,"Individual
+Operators"
+Location 1:,Port Louis
+Location 2:,Eau Bouillie
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Mount Ory (Sungkur Shop)
+6,"Moka (Junction Leclezio
+Avenue / Bois Cheri Road)"
+7A,Moka (Hospital)
+7,Moka (Government School)
+8,Riviere Baptiste (Junction)
+9,Saint Pierre (Traffic Centre)
+10,L’Avenir
+11,"Junction La Laura /
+Nouvelle Decouverte
+Roads"
+12,Beau Bois
+13,Ripailles
+14,"Nouvelle Decouverte
+(Government School)"
+15,"Junction La Nicoliere Road
+/ Eau Bouillie"
+
+
+Route:,103A
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 103
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,Reduit (University of Mauritius)
+8,"Moka (Mahatma Gandhi
+Institute)"
+9,Gentilly
+10,Saint Pierre (Traffic Centre)
+11,L’Avenir
+12,"Junction La Laura / Nouvelle
+Decouverte Roads"
+13A,Malinga
+13,La Laura
+
+
+Route:,104
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Icery
+0,"Curepipe (Jan Palach
+North)"
+1,Corson (Tea Factory)
+3,"La Croix Street (Peerally
+Store)"
+4,Icery
+5,"Curepipe (Jan Palach
+North)"
+
+
+Route:,105
+Operator:,"Individual
+Operator"
+Location 1:,Rose Hill
+Location 2:,Vuillemin
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,"Reduit (University of
+Mauritius)"
+3,"Moka (Mahatma Gandhi
+Institute)"
+4A,Moka (Hospital)
+4,Gentilly
+5,"Saint Pierre (Traffic
+Centre)"
+6,"Verdun (Beginning of
+Village)"
+7,Verdun (Post Office)
+8,"Lower Dagotiere (Village
+Hall)"
+9A,"Upper Dagotiere (NHDC
+Housing Estate)"
+9,Valetta (Junction)
+10,Valetta (End of Village)
+11,Vuillemin (Junction)
+12,Vuillemin (Terminus)
+
+
+Route:,Route not found
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 105
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,"Reduit (University of
+Mauritius)"
+3,"Moka (Mahatma Gandhi
+Institute)"
+4A,Moka (Hospital)
+4,Gentilly
+5A,Saint Pierre (Traffic Centre)
+5,Cote d’Or (Chantecler Farm)
+6,"Cote d’Or (Ex-Co-operative
+Store)"
+
+
+Route:,106
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Central Flacq
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,"Pamplemousses (Canton Belle
+Eau)"
+8,"The Mount (Boutique
+Bambous)"
+9,Petite Rosalie
+10,Grande Rosalie
+11,"Villebague (La Nicoliere
+Junction)"
+12,Villebague (End of Village)
+13,Mare d’Australia
+14,"Brisee Verdiere (Atma
+Shopping Centre)"
+15,"Brisee Verdiere (Latapie
+Branch Road)"
+16,Bon Accueil
+17,Lallmatie
+18,"Saint Julien (Government
+School)"
+19,La Roche
+20,F.U.E.L.
+22,Bonne Mere (Maness)
+23,Central Flacq (Bus Station)
+
+
+Route:,109
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Central Flacq
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,"Pamplemousses (Canton Belle
+Eau)"
+8,"The Mount (Boutique
+Bambous)"
+9,Petite Rosalie
+10,Grande Rosalie
+11,"Villebague (La Nicoliere
+Junction)"
+12,Villebague (End of Village)
+13,Mare d’Australia
+14,"Brisee Verdiere (Atma
+Shopping Centre)"
+15,Belvedere
+16,Lallmatie
+17,"Saint Julien (Government
+School)"
+18,La Roche
+19,F.U.E.L.
+20,Bonne Mere (Reservoir)
+22,Central Flacq (Bus Station)
+
+
+Route:,110
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Congomah
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,Terre Rouge (Boutique Tamarin)
+4,Melle Laure
+5,Khoyratty
+6,Junction Camp des Embrevades
+7A,Ilot
+7,D’Epinay (Beginning of Village)
+8,D’Epinay (Kalimaye)
+9,"Congomah (Government
+School)"
+10,Congomah (Terminus)
+
+
+Route:,Unknown
+Operator:,Weekdays
+Location 1:,06h10
+Location 2:,05h15
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,"Pamplemousses (Canton
+Belle Eau)"
+8,"The Mount (Boutique
+Bambous)"
+9,Petite Rosalie
+10,Grande Rosalie
+11,"Villebague (La Nicoliere
+Junction)"
+12,Villebague (End of Village)
+13,Mare d’Australia
+14,"Brisee Verdiere (Atma
+Shopping Centre)"
+15,"Brisee Verdiere (Latapie
+Branch Road)"
+16,Bon Acceuil
+17,Grande Retraite
+18A,"Laventure (Beginning of
+Village)"
+19A,Laventure (Village Hall)
+20A,Laventure (Crematory)
+19,Pont Blanc
+20,Constance (Football Ground)
+21A,Saint Remy
+21,Central Flacq (Bus Station)
+
+
+Route:,112
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Central Flacq
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,"Pamplemousses (Canton
+Belle Eau)"
+8,"The Mount (Boutique
+Bambous)"
+9,Petite Rosalie
+10,Grande Rosalie
+11,"Villebague (La Nicoliere
+Junction)"
+12,Villebague (End of Village)
+13,Mare d’Australia
+14,"Brisee Verdiere (Atma
+Shopping Centre)"
+15,"Brisee Verdiere (Latapie
+Branch Road)"
+16,Bon Acceuil
+17,Lallmatie
+18,"Saint Julien (Government
+School)"
+19,Saint Julien (Church)
+20,Belle Vue Allendy
+21,Constance
+
+
+Route:,113
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Bel Air
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,Reduit (University of Mauritius)
+8,"Moka (Mahatma Gandhi
+Institute)"
+9,Gentilly
+10,Saint Pierre (Traffic Centre)
+11,Verdun (Beginning of Village)
+12,Verdun (Bar Le Duc Bridge)
+13,Alma (Beginning of Village)
+14,Alma (Cemetery)
+15,"Quartier Militaire (Ex-Railway
+Station)"
+16,"Providence (Beginning of
+Village)"
+17,Providence (End of Village)
+18,Mont Ida (Government School)
+19,Medine
+20,Bel Etang
+21,Camp de Masque (Village Hall)
+23,"Camp de Masque Pave
+(Government School)"
+24,"Petite Cabane /Camp de
+Masque Pave (End of Village)"
+25,"Clemencia (Beginning of
+Village)"
+26,"Clemencia (Co-operative
+Store)"
+27,Belle Rose
+28,Cite La Lucie
+29,Bel Air
+
+
+Route:,114
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Malherbes
+0,Cite Malherbes
+1,"Clement Charoux Street
+(Tabagie Dwarka)"
+2,"Curepipe (Jan Palach
+North)"
+3,"Forest Side (Forum
+Complex)"
+
+
+Route:,114A
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Wootun
+0,Wooton (Millenium Memorial)
+1,Couvent de Lorette (Mosque)
+2,Curepipe (Jan Palach North)
+3,Forest Side (Forum Complex)
+
+
+Route:,115
+Operator:,UBS
+Location 1:,Plaine Verte
+Location 2:,Cité Vallijee
+0,Plaine Verte
+1A,Vallee Pitot (Cite Rozemont)
+1,"Junction Boulevard Victoria /
+Inkerman Street"
+2,"Junction Volcy Pougnet /
+Harris Streets"
+3,La Butte
+4,Cite Vallijee (Bus Station)
+
+
+Route:,117
+Operator:,"Individual
+operator"
+Location 1:,Port Louis
+Location 2:,Congomah
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,"Camp des Embrevades (End
+of Village)"
+8,Junction Ilot
+9A,Ilot
+9,"D’Epinay (Beginning of
+Village)"
+10,D’Epinay (Kalimaye)
+11,"Congomah (Government
+School)"
+12,Congomah (Terminus)
+
+
+Route:,119
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Black River
+0,"Port Louis (Transportation
+Centre)"
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Camp Benoit
+4,"Petite Riviere (Police
+Station)"
+5,Petite Riviere (Foyer Piat)
+6,Gros Cailloux
+7,Canot
+8,"Bambous (Roches Brunes
+Youth Training Centre)"
+9,"Bambous (Junction Black
+River / Geoffroy Roads)"
+10,Bambous (Dragon Store)
+11,Junction Flic en Flac
+12,"Clarence (Beginning of
+Village)"
+13,Clarence (End of Village)
+14,Riviere du Rempart Bridge
+15,"Tamarin (Beginning of
+Village)"
+16,Tamarin (Salt Pans)
+17,La Preneuse
+18,"Grande Riviere Noire (Salt
+Pans)"
+19,"Grande Riviere Noire (Trois
+Bras Store)"
+
+
+Route:,120
+Operator:,"Individual
+operator"
+Location 1:,Port Louis
+Location 2:,Baie du Cap
+0,Port Louis
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Camp Benoit
+4,"Petite Riviere (Police
+Station)"
+5,Petite Riviere (Foyer Piat)
+6,Gros Cailloux
+7,Canot
+8,"Bambous (Roches Brunes
+Youth Training Centre)"
+9,"Bambous (Junction Black
+River / Geoffroy Roads)"
+10,Bambous (Dragon Store)
+11,Junction Flic en Flac
+12,"Clarence (Beginning of
+Village)"
+13,Clarence (End of Village)
+14,Riviere du Rempart Bridge
+15,"Tamarin (Beginning of
+Village)"
+16,Tamarin (Salt Pans)
+17,La Preneuse
+18,"Grande Riviere Noire (Salt
+Pans)"
+19,"Grande Riviere Noire (Trois
+Bras Store)"
+20,Montee Bois Puant
+21,"Petite Riviere Noire (Salt
+Pans)"
+22,"Petite Riviere Noire (End of
+Village)"
+23,Case Noyale
+25,Coteau Raffin
+26,Le Morne (Hotel Junction)
+27A,Le Morne (Le Paradis Hotel)
+28A,Le Morne (Le Berjaya Hotel)
+27,Le Morne (Football Ground)
+28,Le Morne (End of Village)
+29,La Prairie (Beach)
+30,"La Prairie (Signpost
+‘Dangerous Bath’)"
+31,Maconde
+32,Baie du Cap
+
+
+Route:,121
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Camp Levieux
+0,Camp Levieux (Eau Coulee)
+1,"Mgr Leen Street (Ruhee’s
+House)"
+2,Curepipe (Jan Palach North)
+3,Forest Side (Forum Complex)
+
+
+Route:,122
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Camp Levieux
+0,Curepipe (Jan Palach North)
+1,Curepipe Road (Darne Clinic)
+2,Floreal (Knitwear Factory)
+3,"Junction Floreal / River Walk
+Roads"
+4,Vacoas (S.M.F.)
+5,La Caverne (Modern Complex)
+6,Candos (Victoria Hospital)
+7,Quatre Bornes (Traffic Centre)
+8,"Junction Stanley Avenue /
+Boundary Road"
+9,"Roches Brunes (Housing
+Estate)"
+10,"Camp Levieux (NHDC
+Complex)"
+
+
+Route:,122A
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Camp Levieux
+0,Curepipe (Jan Palach North)
+1,"Eau Coulee (Neergheen
+Bhawan)"
+2,Castel (Magasin Etoile Brillant)
+3,Saint Paul (Magasin Lotus)
+4,Vacoas (S.M.F.)
+5,La Caverne (Modern Complex)
+6,Candos (Victoria Hospital)
+7,Quatre Bornes (Traffic Centre)
+8,"Junction Stanley Avenue /
+Boundary Road"
+9,"Roches Brunes (Housing
+Estate)"
+10,Camp Levieux (NHDC Complex)
+
+
+Route:,123
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Wolmar
+0,"Port Louis (Transportation
+Centre)"
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Camp Benoit
+4,Petite Riviere (Police Station)
+5,Petite Riviere (Foyer Piat)
+6,Gros Cailloux
+7,Canot
+8,"Bambous (Roches Brunes
+Youth Training Centre)"
+9,"Bambous (Junction Black
+River / Geoffroy Roads)"
+10,Bambous (Dragon Store)
+11,Junction Flic en Flac
+12,"Junction Flic en Flac / Anna
+Estate Roads"
+13,"Flic en Flac (Government
+School)"
+14,"Flic en Flac (Golden Beach
+Restaurant)"
+15,Wolmar
+
+
+Route:,125
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Cité La Caverne
+0,Curepipe (Jan Palach North)
+1,"Curepipe Road (Darne
+Clinic)"
+2,Floreal (Knitwear Factory)
+3,"Junction Floreal / Riverwalk
+Roads"
+4,Vacoas (S.M.F.)
+5,Cite La Caverne
+
+
+Route:,126
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Rivière du Rempart
+0,Port Louis (Transportation Centre)
+1,Hospice Pere Laval / Plaine Verte
+2,Pere Laval Entrance
+3,Terre Rouge (Boutique Tamarin)
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,Pamplemousses (Eau Partagee)
+8,Mon Rocher
+9,La Louisa
+10,Belle Vue Harel
+11,Labourdonnais (Estate)
+12,Cottage (Beginning of Village)
+13,L’Esperance (Gate)
+14,Poudre d’Or Hamlet
+15,Poudre d’Or (United Basalt)
+16,Poudre d’Or (Dispensary)
+17,Poudre d’Or (Hospital)
+18,Ile d’Ambre
+19,Ile d’Ambre (Panchavati Junction)
+20,Pointe des Lascars (Junction)
+21,Riviere du Rempart (Traffic Centre)
+
+
+Route:,127
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Roches Noires
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,"Pamplemousses (Canton
+Belle Eau)"
+8,"The Mount (Boutique
+Bambous)"
+9,Piton (Reservoir)
+11,Piton
+13,Gokoola
+14,L’Amitie
+15,Mon Loisir (Sugar Estate)
+16,Riviere du Rempart
+17,Haute Rive
+18,"Junction Roches Noires /
+Coastal Roads"
+19,"Roches Noires Village
+(Siding Gaud)"
+
+
+Route:,128
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Les Casernes
+0,Curepipe (Jan Palach North)
+1,"Junction Saint Clement / Brown
+Sequard Streets"
+2,Stevenson Street (Ex-Dairy)
+3,"Botanical Garden Street (Main
+Entrance)"
+4,Curepipe (Jan Palach North)
+5,Forest Side (Forum Complex)
+
+
+Route:,129
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Pointe Aux Roches
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,Nouvelle France (Police Station)
+6,Nouvelle France (Comlone)
+7,"Beau Climat (Sugar Estate
+Office)"
+8,La Flora (Shivala)
+10,Junction Riviere du Poste
+11,Riviere Dragon
+12,Britannia
+13,Tyack (Vishnu Mandir)
+14,Riviere des Anguilles
+15,Union Ducray
+16,"Souillac (Bain des Negresses
+Bridge)"
+17,Souillac (Bus Station)
+18,Surinam (Mosque)
+19,Surinam (Peerally Store)
+20,Contour Leon
+21,Belle Vue
+22,Chemin Grenier (Taxi Stand)
+23,Chemin Grenier (Tamil Temple)
+24,Riviere des Galets (Bus Station)
+
+
+Route:,131
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Cité L’oiseau
+0,Cite L’Oiseau
+1,"Junction Rouillard / Engrais
+Martial Roads"
+2,"Junction Farquhar / Abbe
+Laval Streets"
+3,"Curepipe (Jan Palach
+North)"
+4,"Forest Side (Forum
+Complex)"
+
+
+Route:,132
+Operator:,"Individual
+Operator"
+Location 1:,Rose Hill
+Location 2:,Trefles
+0,"Rose Hill (Dar-es-Salaam
+Square)"
+1,"Trefles (Corps de Garde
+Store)"
+2,Trefles (Housing Estate)
+
+
+Route:,133
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Choisy
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis
+/ Royal Roads)"
+4,Lapeyre Hill
+5,"Nouvelle France (Police
+Station)"
+6,Nouvelle France (Comlone)
+7,"Beau Climat (Sugar Estate
+Office)"
+8,La Flora (Shivala)
+10,Junction Riviere du Poste
+11,Riviere Dragon
+12,Britannia
+13,Tyack (Vishnu Mandir)
+14,Riviere des Anguilles
+15,Union Ducray
+16,"Souillac (Bain des
+Negresses Bridge)"
+17,Souillac (Bus Station)
+18,Surinam (Mosque)
+19,Surinam (Peerally Store)
+20,Contour Leon
+21,Belle Vue
+22,Chemin Grenier (Taxi Stand)
+23,"Chemin Grenier (Tamil
+Temple)"
+24,"Riviere des Galets (Bus
+Station)"
+25,Beau Champ (Bridge)
+26,Beau Champ (End of
+27,"Bel Ombre (Beginning of
+Village)"
+28,"Bel Ombre (Government
+School)"
+29,"Saint Martin (Micheal Leal
+Road)"
+30,Baie du Cap
+31,Choisy (Beginning of Village)
+32,Choisy (Terminus)
+
+
+Route:,134
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Bord Cascade
+0,Curepipe (Jan Palach North)
+1,"Curepipe Road (Darne
+Clinic)"
+2,Floreal (Knitwear Factory)
+3,Sadally
+4,"Reunion (Cantin
+Government School)"
+5,Glen Park (Shivala)
+6,Henrietta (Chapel)
+7,Bord Cascade
+
+
+Route:,135
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Vuillemin
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Mount Ory (Sungkur Shop)
+6,"Moka (Junction Leclezio
+Avenue / Bois Cheri Road)"
+7A,Moka (Hospital)
+7,Moka (Government School)
+8,Riviere Baptiste (Junction)
+9,St Pierre (Traffic Centre)
+10,Verdun (Beginning of Village)
+11,Verdun (Post Office)
+12,"Lower Dagotiere (Village
+Hall)"
+13A,"Upper Dagotiere (NHDC
+Housing Estate)"
+13,Valetta (Junction)
+14,Valetta (End of Village)
+15,Vuillemin (Junction)
+16,Vuillemin (Terminus)
+
+
+Route:,137
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Carreau Accacia
+0,Curepipe (Jan Palach South)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,"XVIth Mile (Junction Coriolis /
+Royal Roads)"
+4,Lapeyre Hill
+5,"Nouvelle France (Police
+Station)"
+6,Union Park (Cluny Junction)
+7,Union Park (Village Hall)
+8A,Jawaharlall Nehru Hospital
+8,"Rose Belle (Junction
+Jawaharlall Nehru Hospital /
+Royal Roads)"
+9,Rose Belle (Gebert)
+10,La Rosa
+11,"Mare d’Albert (Government
+School)"
+12,Mare d’Albert (United Basalt)
+13,"Plaine Magnien (Police
+Station)"
+14,Carreau Esnouf
+15,Mon Desert (Village)
+16,"Kenya / Camp Carol (Village
+Hall)"
+17A,Le Bouchon
+
+
+Route:,Unknown
+Operator:,Weekdays
+Location 1:,06h00
+Location 2:,05h40
+0,"Port Louis (Transportation
+Centre)"
+1,"Junction La Paix / Nyon
+Streets"
+2,Vallee Pitot (Cite Rozemont)
+3,Cite Gabriel Martial
+
+
+Route:,140
+Operator:,UBS
+Location 1:,Port Louis
+Location 2:,Hermitage
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Cercle de Beau
+Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Belle Rose (Pepsi Cola)
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,"Phoenix (Junction Highlands
+Road)"
+12,Highlands (Football Ground)
+13,"Camp Fouquereaux (Junction
+Hermitage Road)"
+14,Hermitage
+
+
+Route:,141
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Bord Cascade
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,"Reduit (University of
+Mauritius)"
+8,"Trianon (Margarine
+Industries Limited)"
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (I.V.T.B)
+11,"Phoenix (Indira Gandhi
+Cultural Centre) /
+Promenade Pere Laval)"
+12,"Vacoas (Junction Saint Paul
+/ Floreal Roads)"
+13,"Reunion (Cantin
+Government School)"
+14,Glen Park (Shivala)
+15,Henrietta (Chapel)
+16,Bord Cascade
+
+
+Route:,143
+Operator:,"Individual
+Operator"
+Location 1:,Curepipe
+Location 2:,Vacoas
+0,Vacoas (Bus Station)
+1,"Junction Floreal / Riverwalk
+Roads"
+2,Floreal (Knitwear Factory)
+3A,"Cite L’Oiseau / Queen Mary
+Avenue"
+3,Curepipe Road (Darne Clinic)
+4,Curepipe (Jan Palach North)
+
+
+Route:,144
+Operator:,"Individual
+Operator/
+UBS"
+Location 1:,Curepipe
+Location 2:,O’Connor
+0,O’Connor
+1A,"Camp Caval (Impasse
+Bhawan)"
+1,"Junction Dr. Edwards /
+Emile Pitot Streets"
+2,"Curepipe (Jan Palach
+North)"
+3,"Forest Side (Forum
+Complex)"
+
+
+Route:,144A
+Operator:,UBS
+Location 1:,Curepipe
+Location 2:,O’Connor
+0,O’Connor
+1,Camp Caval (Impasse Bhawan)
+2,Curepipe (Jan Palach North)
+3,Forest Side (Forum Complex)
+
+
+Route:,145
+Operator:,RHT
+Location 1:,Port Louis
+Location 2:,Rose Hill
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Serge Alfred
+Swimming Pool)"
+7,"Roches Brunes (Independence
+Street)"
+8,Plaisance (Football Ground)
+9,"Trefles Housing Estate (Tabagie
+Pillay)"
+10,"Boundary Road (Saint Patrick
+Church)"
+11,Rose Hill (Market)
+
+
+Route:,148
+Operator:,UBS
+Location 1:,Cité La Cure
+Location 2:,Cité Vallijee
+0,Cite La Cure (Traffic Centre)
+1,"Sainte Croix (Pere Laval
+Church)"
+2,Junction Vallee des Pretres
+3,Plaine Verte
+4,"Junction Frere Felix de Valois
+/ Labourdonnais Streets"
+5,La Butte
+6,Cite Vallijee (Bus Station)
+
+
+Route:,149
+Operator:,UBS
+Location 1:,Port Louis
+Location 2:,Bigara
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Cercle de Beau
+Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Belle Rose (Pepsi Cola)
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,Phoenix (Police Station)
+12,Castel (Magasin Etoile Brillant)
+13,"Eau Coulee (Neergheen
+Bhawan)"
+14,Forest Side (Post Office)
+15,"La Brasserie (Experimental
+Station)"
+16,Bigara (Wireless Station)
+
+
+Route:,150
+Operator:,"Individual
+Operator"
+Location 1:,Pailles
+Location 2:,Vallee Pitot
+0,"Pailles (Saint Vincent de
+Paul Avenue)"
+1,G.R.N.W. (Pailles Road)
+2,Brabant (SPAR)
+3,"Deschartres Street /
+Jemmapes Street"
+4,"Junction Volcy Pougnet /
+Harris Streets"
+5,"Junction Boulevard Victoria
+/ Inkerman Street"
+6,Vallee Pitot
+
+
+Route:,152
+Operator:,UBS
+Location 1:,Cite Vallijee
+Location 2:,Le Goulet
+0,Cite Vallijee (Bus Station)
+1,La Butte
+2,"Junction Frere Felix de Valois
+/ Labourdonnais Streets"
+3,Plaine Verte
+4,"Junction Cocoterie / Nicolay
+Roads"
+5A,Roche Bois (Fly Over)
+6A,Cite Roche Bois
+5,Roche Bois (Ex-Dockers Flats)
+6,"Baie du Tombeau (Police
+Station)"
+7,Saint Malo
+8,Le Goulet
+
+
+Route:,153
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Saint Pierre
+0,Curepipe (Jan Palach North)
+1,"Curepipe Road (Darne
+Clinic)"
+2,Floreal (Knitwear Factory)
+3,"Junction Floreal / Riverwalk
+Roads"
+4,Vacoas (S.M.F.)
+5,"La Caverne (Modern
+Complex)"
+6,Candos (Victoria Hospital)
+7,La Louise
+8,"Quatre Bornes (Cite Saint
+Jean)"
+9,"Trianon (Margarine
+Industries Limited)"
+10,"Reduit (University of
+Mauritius)"
+11,"Moka (Mahatma Gandhi
+Institute)"
+12A,Moka (Hospital)
+12,Gentilly
+13,Saint Pierre (Traffic Centre)
+
+
+Route:,156
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Berthaud
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,"Belle Etoile (Tamil Social
+Hall)"
+5,"Beau Bassin (Vinayak
+Mandir)"
+6,"Beau Bassin (Cercle de
+Beau Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Ollier Avenue (Super U)
+9,Ollier Avenue (Gooly Store)
+10,Berthaud (Bus Station)
+
+
+Route:,156A
+Operator:,NTC
+Remark:,Service provided by buses of NTC (One trip only)
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Belle Rose (Pepsi Cola)
+2,"Quatre Bornes (Cite Saint
+Jean)"
+3,La Louise
+4,La Source
+
+
+Route:,159
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Poudre d’Or
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Saint Joseph (Chapel)
+5,Arsenal
+6,Riviere Citron
+7,S.S.R.N. Hospital
+8,Saint Andre
+9,Morcellement Saint Andre
+10,Plaine des Papayes
+11,Bois Mangues
+12,Belle Vue Harel
+13,Labourdonnais (Estate)
+14,"Cottage (Beginning of
+Village)"
+15,L’Esperance (Gate)
+16,Poudre d’Or Hamlet
+17,Poudre d’Or (United Basalt)
+18,Poudre d’Or (Dispensary)
+19,Poudre d’Or (Hospital)
+
+
+Route:,160
+Operator:,UBS
+Location 1:,Cite Vallijee
+Location 2:,Vallee des Pretres
+0,Cite Vallijee (Bus Station)
+1,La Butte
+2,"Junction Frere Felix de Valois /
+Labourdonnais Streets"
+3,Plaine Verte
+4,Junction Vallee des Pretres
+5,"Vallee des Pretres (Nalletamby’s
+House)"
+6,Vallee des Pretres (Kovil)
+7,"Upper Vallee des Pretres
+(Sandokan Bar)"
+
+
+Route:,162
+Operator:,UBS LTD
+Location 1:,Port Louis
+Location 2:,Forest Side
+0,Port Louis (Victoria Square)
+1,"Cassis (Royal College) / Brabant
+(SPAR)"
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,Reduit (Roundabout)
+8,"Trianon (Margarine Industries
+Limited)"
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,Phoenix (Police Station)
+12,Castel (Magasin Etoile Brillant)
+13,"Eau Coulee (Neergheen
+Bhawan)"
+14,Forest Side
+
+
+Route:,163
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Vacoas
+0,Port Louis (Victoria Square)
+1,"Cassis (Royal College) /
+Brabant (SPAR)"
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,Reduit (Roundabout)
+8,"Trianon (Margarine
+Industries Limited)"
+9,"Quatre Bornes (Cite Saint
+Jean)"
+10,La Louise
+11,Candos (Victoria Hospital)
+12,"La Caverne (Modern
+Complex)"
+13,Vacoas (Bus Station)
+
+
+Route:,166
+Operator:,NTC
+Location 1:,Vacoas
+Location 2:,Cite la Caverne
+0,Vacoas (Bus Station)
+1,"Bonne Terre (Demi Gros
+National)"
+2,"Junction La Caverne / Pave
+d'Amour"
+3,Cite La Caverne
+
+
+Route:,169
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,Petite Cabane
+0,Central Flacq (Bus Station)
+1,Bonne Mere (Maness)
+2,Bonne Mere (Reservoir)
+3,F.U.E.L.
+4,Balance John
+5,"Camp de Masque Pave
+(Government School)"
+6,Petite Cabane
+
+
+Route:,170
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Curepipe
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Cercle de Beau
+Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Belle Rose (Pepsi Cola)
+9,Quatre Bornes (Cite Saint Jean)
+10,La Louise
+11,Candos (Victoria Hospital)
+12,La Caverne (Modern Complex)
+13,Vacoas (S.M.F.)
+14,Saint Paul (Magasin Lotus)
+15,Castel (Magasin Etoile Brillant)
+16,"Eau Coulee (Neergheen
+Bhawan)"
+17,Curepipe (Jan Palach North)
+
+
+Route:,170A
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Curepipe
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,Belle Etoile (Tamil Social Hall)
+5,Beau Bassin (Vinayak Mandir)
+6,"Beau Bassin (Cercle de Beau
+Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Belle Rose (Pepsi Cola)
+9,Quatre Bornes (Cite Saint Jean)
+10,La Louise
+11,Candos (Victoria Hospital)
+12,La Caverne (Modern Complex)
+13,Vacoas (S.M.F.)
+14,"Junction Floreal / Riverwalk
+Roads"
+15,Floreal (Knitwear Factory)
+16,Curepipe Road (Darne Clinic)
+17,Curepipe (Jan Palach North)
+
+
+Route:,171
+Operator:,TBS
+Location 1:,Port Louis
+Location 2:,"Grande Pointe
+aux Piments"
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Saint Joseph (Chapel)
+5,Arsenal
+6,Riviere Citron
+7,S.S.R.N. Hospital
+8,Saint Andre
+9,Solitude
+10,"Triolet 8th Mile (Sewraz’s
+House)"
+11,Camp Lilas
+12,Petite Pointe aux Piments
+13,Grande Pointe aux Piments
+
+
+Route:,172
+Operator:,UBS
+Location 1:,Rose Hill
+Location 2:,Roches Brunes
+0,"Rose Hill (Dar-es-Salaam
+Square)"
+1,"Plaisance (Rose Hill Transport
+Garage)"
+2,Roches Brunes
+
+
+Route:,173
+Operator:,UBS
+Location 1:,Port Louis
+Location 2:,Vacoas
+0,Curepipe (Jan Palach North)
+1,"Eau Coulee (Neergheen
+Bhawan)"
+2,Castel (Magasin Etoile Brillant)
+3,Phoenix (Police Station)
+4,Phoenix (Pont Fer)
+5,"Pellegrin (Trianon Shopping
+Park)"
+6,"Trianon (Margarine Industries
+Limited)"
+7,Reduit (University of Mauritius)
+8,"Moka (Mahatma Gandhi
+Institute)"
+9A,Moka (Hospital)
+9,Gentilly
+10,St Pierre (Traffic Centre)
+
+
+Route:,174
+Operator:,RHT
+Location 1:,Port Louis
+Location 2:,Rose Hill
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,Reduit (University of Mauritius)
+3,Martindale
+4,Colville Deverell Bridge
+5,Soreze
+6,Pailles (Grewals)
+7,Camp Chapelon
+8,Brabant (SPAR)
+9,Port Louis (Victoria Square)
+
+
+Route:,174A
+Operator:,RHT
+Location 1:,Port Louis
+Location 2:,Rose Hill
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2A,Ebene (Cyber Tower)
+2,Reduit (University of Mauritius)
+3,Martindale
+4,Colville Deverell Bridge
+5,Soreze
+6,Pailles (Grewals)
+7,Camp Chapelon
+8,Brabant (SPAR)
+9,Port Louis (Victoria Square)
+
+
+Route:,175
+Operator:,MBT
+Location 1:,Creve Coeur
+Location 2:,S.S.R.N Hospital
+0,S.S.R.N. Hospital
+1,"Beau Plan (L’Aventure
+du Sucre)"
+2,"Pamplemousses
+(M.C.B.)"
+3,Calebasses
+4,Khoyratty
+5,Junction Long Mountain
+6,Bois Pignolet
+7A,Kitchin (Ackbarally Lane)
+8A,Kitchin (End of Village)
+7,"Notre Dame (End of
+Village)"
+8,Long Mountain
+9,L’Industrie
+10,"Creve Coeur
+(Government School)"
+11,"Creve Coeur
+(Roodurman’s House)"
+
+
+Route:,Unknown
+Operator:,Weekdays
+Location 1:,05h10
+Location 2:,05h00
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,"Junction Camp des
+Embrevades"
+7,"D’Epinay (Beginning of
+Village)"
+8,D’Epinay (Kalimaye)
+9,Grande Rosalie
+10,"Villebague (La Nicoliere
+Junction)"
+11,Villebague (End of Village)
+12,Mare d’Australia
+13,"Brisee Verdiere (Atma
+Shopping Centre)"
+14,"Brisee Verdiere (Latapie
+Branch Road)"
+15,Bon Accueil
+16,Lallmatie
+17,"Saint Julien (Government
+School)"
+18,Saint Julien (Church)
+19,Belle Vue Allendy
+20,Constance
+21,Central Flacq (Bus Station)
+
+
+Route:,178
+Operator:,"Individual
+Operator"
+Location 1:,Melville
+Location 2:,Mme Azor
+0,Melville
+1,Grand Gaube (Church)
+2,"Roche Terre (Boutique
+Kalasse)"
+3,Roche Terre (Ramrecha Shop)
+4,"Goodlands (Government
+School)"
+5,Saint Antoine (Traffic Centre)
+6,Mme Azor
+
+
+Route:,179
+Operator:,NTC
+Remark:,Hourly service provided on Sundays and Public Holidays
+0,Curepipe (Jan Palach North)
+1,"Eau Coulee (Neergheen
+Bhawan)"
+2,Castel (Magasin Etoile Brillant)
+3,Saint Paul (Magasin Lotus)
+4,Vacoas (S.M.F.)
+5,La Caverne (Modern Complex)
+6,Candos (Victoria Hospital)
+7,La Louise
+8,Palma (Government School)
+9,"Palma (Junction Bassin
+Estate)"
+10,Beaux Songes (Reservoir)
+11,"Montee Bol (Junction Geoffroy
+Road)"
+12,"Bambous (Mangues Vert
+Doux)"
+13,"Bambous (Junction Black
+River / Geoffroy Roads)"
+14,Bambous (Dragon Store)
+15,Junction Flic en Flac
+16,"Junction Flic en Flac / Anna
+Estate Roads"
+17,"Flic en Flac (Government
+School)"
+18,"Flic en Flac (Golden Beach
+Restaurant)"
+19,Wolmar
+
+
+Route:,179A
+Operator:,NTC
+Remark:,Hourly service provided on Sundays and Public Holidays
+0,Curepipe (Jan Palach North)
+1,Curepipe Road (Darne Clinic)
+2,Floreal (Knitwear Factory)
+3,"Junction Floreal / Riverwalk
+Roads"
+4,Vacoas (S.M.F.)
+5,La Caverne (Modern Complex)
+6,Candos (Victoria Hospital)
+7,La Louise
+8,Palma (Government School)
+9,"Palma (Junction Bassin
+Estate)"
+10,Beaux Songes (Reservoir)
+11,"Montee Bol (Junction Geoffroy
+Road)"
+12,"Bambous (Mangues Vert
+Doux)"
+13,"Bambous (Junction Black
+River / Geoffroy Roads)"
+14,Bambous (Dragon Store)
+15,Junction Flic en Flac
+16,"Junction Flic en Flac / Anna
+Estate Roads"
+17,"Flic en Flac (Government
+School)"
+18,"Flic en Flac (Golden Beach
+Restaurant)"
+19,Wolmar
+
+
+Route:,180
+Operator:,NTC
+Location 1:,Bord Cascade
+Location 2:,Phoenix Industrial Estate (Valentina)
+0,Bord Cascade
+1,Henrietta (Chapel)
+2,Glen Park (Shivala)
+3,"Reunion (Cantin Government
+School)"
+4,Vacoas (Bus Station)
+5,"Phoenix (Indira Gandhi
+Cultural Centre)"
+6,Valentina (Industrial Estate)
+
+
+Route:,181
+Operator:,NTC
+Location 1:,Hermitage
+Location 2:,Phoenix Industrial Estate (Valentina)
+0,Hermitage
+1,"Camp Fouquereaux (Junction
+Hermitage Road)"
+2,Highlands (Football Ground)
+3,"Phoenix (Junction Highlands
+Road)"
+4,Valentina (Industrial Estate)
+
+
+Route:,182
+Operator:,"Individual
+Operator"
+Location 1:,Cité La Cure
+Location 2:,Gros Cailloux
+0,Cite La Cure (Traffic Centre)
+1,"Sainte Croix (Pere Laval
+Church)"
+2,Junction Vallee des Pretres
+3,Plaine Verte
+4,"Junction Boulevard Victoria /
+Inkerman Street"
+5,"Junction Volcy Pougnet /
+Harris Streets"
+6,"Deschartres Street /
+Jemmapes Street"
+7,Brabant (SPAR)
+8,G.R.N.W.
+9,Coromandel (Sunray Hotel)
+10,Belle Etoile (Tamil Social Hall)
+11,Cite Chebel
+12,"Chebel (Junction Open Prisons
+Road)"
+13,"Gros Cailloux (Morcellement
+de Marigny)"
+
+
+Route:,185
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Bois Marchand
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,Terre Rouge (Boutique Tamarin)
+4,Cite Bois Marchand
+
+
+Route:,187
+Operator:,"Individual
+Operator"
+Location 1:,Saint Antoine
+Location 2:,Melle Jeanne
+0,Saint Antoine (Traffic Centre)
+1,Melle Jeanne (Bhugaloo’s Shop)
+2,Melle Jeanne (Kalimaye)
+
+
+Route:,188
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,No second location
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,Reduit (Roundabout)
+8,"Trianon (Margarine Industries
+Limited)"
+9,"Quatre Bornes (Cite Saint
+Jean)"
+10,Sodnac
+
+
+Route:,189
+Operator:,NTC
+Location 1:,Rose Hill
+Location 2:,Wolmar
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,"Hugnin Road (Rose Hill
+Transport Garage)"
+2,"Mont Roches (Co-operative
+Store)"
+3,Saint Martin (Cemetery)
+4,"Junction Saint Martin / Black
+River Roads"
+5,"Bambous (Roches Brunes
+Youth Training Centre)"
+6,"Bambous (Junction Black
+River / Geoffroy Roads)"
+7,Bambous (Dragon Store)
+8,Junction Flic en Flac
+9,"Junction Flic en Flac / Anna
+Estate Roads"
+10,"Flic en Flac (Government
+School)"
+11,"Flic en Flac (Golden Beach
+Restaurant)"
+12,Wolmar
+
+
+Route:,190
+Operator:,NTC
+Location 1:,"Transportation
+Centre"
+Location 2:,Victoria Square
+0,Port Louis (Victoria Square)
+1,"Port Louis (Transportation
+Centre)"
+
+
+Route:,191
+Operator:,UBS
+Location 1:,Port Louis
+Location 2:,Curepipe
+0,"Port Louis (Transportation
+Centre)"
+16,Curepipe (Jan Palach North)
+
+
+Route:,193
+Operator:,UBS
+Location 1:,Curepipe
+Location 2:,Belle Terre
+0,Curepipe (Jan Palach North)
+1,"Eau Coulee (Neergheen
+Bhawan)"
+2,Castel (Magasin Etoile Brillant)
+3,Highlands (Geerjanan’s House)
+4,"Belle Terre (Junction Belle Terre
+/ Cinq Arpents Roads)"
+5,Belle Terre (Terminus)
+
+
+Route:,194
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,Marie Jeanne
+0,Central Flacq (Bus Station)
+1,Boulet Rouge
+2,Bramsthan
+3,"Ecroignard (Beginning of
+Village)"
+4,Ecroignard (End of Village)
+5,Caroline
+6,Bel Air (Police Station)
+7,Ernest Florent
+8,Beau Champ
+9,Deux Freres
+10,Quatre Soeurs
+11,Marie Jeanne
+
+
+Route:,195
+Operator:,NTC
+Location 1:,Quatre Bornes
+Location 2:,"Phoenix
+Commercial Centre"
+0,Quatre Bornes (Traffic Centre)
+1,"Junction Glaieuls / Sodnac
+Avenues"
+2A,Phoenix (Commercial Centre)
+2,"Junction Hillcrest / Ibis
+Avenues"
+3,"Candos (La Colline
+Commercial Centre)"
+4,Quatre Bornes (Traffic Centre)
+
+
+Route:,196
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Congomah
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,"Pamplemousses (Canton
+Belle Eau)"
+8,Mont Gout (Shivala)
+9,"D’Epinay (Beginning of
+Village)"
+10,D’Epinay (Kalimaye)
+11,"Congomah (Government
+School)"
+12,Congomah (Terminus)
+
+
+Route:,Unknown
+Operator:,Weekdays
+Location 1:,05h20
+Location 2:,07h10
+0,Port Louis (Victoria Square)
+1,Cassis (Royal College) /
+2,BCraambapn Ct h(SaPpeAlRon)
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,Reduit (University of
+8,MTraiaunriotinu s(M) argarine
+9,IPnedlulesgtrriiens ( TLrimianiteodn) S hopping
+10,PPahroke)n ix (Pont Fer)
+11,Highlands
+12,Camp Fouquereaux
+13,(WRoooutnodna (bRoouut)n dabout)
+15,La Vigie (Roundabout)
+17,Midlands
+20,Union Park (Roundabout)
+21,Nouvelle France (Comlone)
+22,Beau Climat (Sugar Estate
+23,OLaff iFcleo)r a (Shivala)
+25,Junction Riviere du Poste
+26,Riviere Dragon
+27,Britannia
+28,Tyack (Vishnu Mandir)
+29,Riviere des Anguilles
+30,Union Ducray
+31,Souillac (Bain des Negresses
+32,BSroidugillea)c (Bus Station)
+33,Surinam (Mosque)
+34,Surinam (Peerally Store)
+35,Contour Leon
+36,Belle Vue
+37,Chemin Grenier (Taxi Stand)
+38,Chemin Grenier (Tamil
+39,TReivmieprele )d es Galets (Bus
+
+
+Route:,198
+Operator:,"BOCS (S)
+& UBS"
+Location 1:,Port Louis
+Location 2:,Mahebourg
+0,"Port Louis (Deschartres
+Street / Victoria Square)"
+1,"Cassis (Royal College) /
+Brabant (SPAR)"
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,"Reduit (University of
+Mauritius)"
+8,"Trianon (Margarine
+Industries Limited)"
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,Highlands
+12,"Camp Fouquereaux
+(Roundabout)"
+13,Wooton (Roundabout)
+15,La Vigie (Roundabout)
+17,Midlands
+20,Union Park (Cluny Junction)
+21,Union Park (Village Hall)
+22,"Rose Belle (Junction
+Jawaharlall Nehru Hospital /
+Royal Roads)"
+23,Rose Belle (Gebert)
+24,La Rosa
+25,"Mare d’Albert (Government
+School)"
+26,Mare d’Albert (United Basalt)
+28,Plaisance (Grotto)
+29A,S.S.R. International Airport
+29,Madame Dayla
+30,Beau Vallon
+31,Mahebourg (Bus Station)
+
+
+Route:,199
+Operator:,TBS
+Location 1:,Port Louis
+Location 2:,Terre Rouge
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3A,Morcellement Raffray
+3,Terre Rouge (Police Station)
+
+
+Route:,200
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,La Sourdine
+0,"Port Louis (Deschartres Street
+/ Victoria Square)"
+1,"Cassis (Royal College) /
+Brabant (SPAR)"
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,Reduit (University of Mauritius)
+8,"Trianon (Margarine Industries
+Limited)"
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,Highlands
+12,"Camp Fouquereaux
+(Roundabout)"
+13,Wooton (Roundabout)
+15,La Vigie (Roundabout)
+17,Midlands
+20,Union Park (Cluny Junction)
+21,Union Park (Village Hall)
+22,"Rose Belle (Junction
+Jawaharlall Nehru Hospital /
+Royal Roads)"
+23,Rose Belle (Gebert)
+24,La Rosa
+26,Mare d’Albert (United Basalt)
+27,"Plaine Magnien (Police
+Station)"
+28,Union Vale
+29,Trois Boutiques
+30,Plein Bois
+31,L’Escalier (Police Station)
+32,La Sourdine
+
+
+Route:,201
+Operator:,UBS
+Location 1:,Curepipe
+Location 2:,La Vigie
+0,Curepipe (Jan Palach North)
+1,Forest Side (Forum Complex)
+
+
+Route:,202
+Operator:,UBS
+Location 1:,Hermitage
+Location 2:,Vacoas
+0,Hermitage
+1,"Camp Fouquereaux (Saint
+Antoine)"
+2,"Castel (Junction Camp
+Fouquereaux)"
+3,Saint Paul (Magasin Lotus)
+4,Vacoas (Bus Station)
+
+
+Route:,203
+Operator:,NTC
+Location 1:,Port Louis
+Location 2:,Camp Le Vieux
+0,"Port Louis (Transportation
+Centre)"
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Camp Benoit
+4,Petite Riviere (Police Station)
+5,Petite Riviere (Foyer Piat)
+6,Gros Cailloux
+7,Canot
+8,Saint Martin (Cemetery)
+9,"Mont Roches (Co-operative
+Store)"
+10,"Camp Levieux (NHDC
+Complex)"
+
+
+Route:,204
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Grand Baie
+0,Port Mathurin (Traffic Centre)
+1,"English Bay (Seth Raffaut
+Shop)"
+2A,"Terre Rouge (Guillaume’s
+House)"
+2,"Jean Tac (Hermance Begue’s
+House)"
+3,"Grand Baie (Marcelin
+Grandcourt's House)"
+
+
+Route:,205
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Baie du Nord
+0,Port Mathurin (Traffic Centre)
+1,Pointe Monier (Fisheries)
+2,Accacia (Children’s Playground)
+3,"Pointe La Gueule (Claite
+Lutchessi’s House)"
+4,Fond Diamant (Bridge)
+5,"Baie Malgache (Alain Meunier’s
+House)"
+6,"Anse Goeland (Junction
+Montagne du Sable)"
+7,"Baie du Nord (Pre-primary
+School)"
+8,Baie du Nord
+
+
+Route:,205A
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Allee Tamarin
+0,Port Mathurin (Traffic Centre)
+1,Pointe Monier (Fisheries)
+2,Accacia (Children’s Playground)
+3,Allee Tamarin
+
+
+Route:,205B
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Fond la Bonte
+0,Port Mathurin (Traffic Centre)
+1,Pointe Monier (Fisheries)
+2,Accacia (Children’s Playground)
+3,Fond La Bonte
+
+
+Route:,206
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Plaine Corail
+0,Port Mathurin (Traffic Centre)
+1,Creve Coeur (Contour Oblass)
+2,Solitude (Contour Kiosque)
+3,Malabar (La Croisee Shop)
+4,Petit Gabriel (Police Station)
+5,Bigarade (Reservoir)
+6A,Dans Sami (Montagne Tonerre)
+6,"Quatre Vents (Francet
+Restaurant)"
+7,Mangues (Government School)
+8,"La Fouche Mangues (San Wa
+Store)"
+9,La Ferme (Church)
+10,"Grand La Fouche Corail
+(Community Centre)"
+11,"Cascade Jean Louis
+(Dispensary)"
+12,Plaine Corail (Airport)
+
+
+Route:,206A
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Plaine Corail
+0,Port Mathurin (Traffic Centre)
+1,Pointe Monier (Fisheries)
+2,Accacia (Children’s Playground)
+3,"Pointe La Gueule (Claite
+Lutchessi’s House)"
+4,Fond Diamant (Bridge)
+5,"Baie Malgache (Alain Meunier’s
+House)"
+6,Montagne du Sable
+7,Mangues (Government School)
+8,"La Fouche Mangues (San Wa
+Store)"
+9,La Ferme (Church)
+10,"Grand La Fouche Corail
+(Community Centre)"
+11,"Cascade Jean Louis
+(Dispensary)"
+12,Plaine Corail (Airport)
+
+
+Route:,207
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Camp Pintade
+0,Port Mathurin (Traffic Centre)
+1,Creve Coeur (Contour Oblass)
+2,Solitude (Contour Kiosque)
+3,Malabar (La Croisee Shop)
+4,Petit Gabriel (Police Station)
+5,Bigarade (Reservoir)
+6,Papayes
+7,Marechal (College)
+8,"Grand La Fouche Corail
+(Community Centre)"
+9,La Ferme (Church)
+10,"Cascade Pistache (Children’s
+Playground)"
+11,"Baie Topaze (Football
+Playground)"
+12,"Camp Pintade (Argile Genave
+Shop)"
+13,"Camp Pintade (Pointe Palmiste
+Water Tank)"
+
+
+Route:,207A
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Riviere Cocos
+0,Port Mathurin (Traffic Centre)
+1,Creve Coeur (Contour Oblass)
+2,Solitude (Contour Kiosque)
+3,Malabar (La Croisee Shop)
+4,Petit Gabriel (Police Station)
+5,Bigarade (Reservoir)
+6,Papayes
+7,Marechal (College)
+8,"Grand La Fouche Corail
+(Community Centre)"
+9A,"Anse Quitor (Lois Remy’s
+House)"
+10A,Anse Quitor (Community Centre)
+9,Corail (Edouard's House)
+10,Petite Butte (Polimon's House)
+11,Ile Michel (Emilien's House)
+12,Riviere Cocos (R.C.A. School)
+
+
+Route:,207B
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Camp Pintade
+0,Port Mathurin (Traffic Centre)
+1,Pointe Monier (Fisheries)
+2,Accacia (Children’s Playground)
+3,"Pointe La Gueule (Claite
+Lutchessi’s House)"
+4,Fond Diamant (Bridge)
+5,"Baie Malgache (Alain Meunier’s
+House)"
+6,"Anse Goeland (Junction
+Montagne du Sable)"
+7,"Baie du Nord (Pre-primary
+School)"
+8,Baie du Nord
+9,La Ferme (Hauteur Borne)
+10,"Cascade Pistache (Children’s
+Playground)"
+11,"Baie Topaze (Football
+Playground)"
+12,"Camp Pintade (Argile Genave
+Shop)"
+13,"Camp Pintade (Pointe Palmiste
+Water Tank)"
+
+
+Route:,207C
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Camp Pintade
+0,Port Mathurin (Traffic Centre)
+1,Pointe Monier (Fisheries)
+2,Accacia (Children’s Playground)
+3,"Pointe La Gueule (Claite
+Lutchessi’s House)"
+4,Fond Diamant (Bridge)
+5,"Baie Malgache (Alain Meunier’s
+House)"
+6,Montagne du Sable
+7,Mangues (Government School)
+8,"La Fouche Mangues (San Wa
+Store)"
+9,La Ferme (Hauteur Borne)
+10,"Cascade Pistache (Children’s
+Playground)"
+11,"Baie Topaze (Football
+Playground)"
+12,"Camp Pintade (Argile Genave
+Shop)"
+13,"Camp Pintade (Pointe Palmiste
+Water Tank)"
+
+
+Route:,208
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Pointe Coton
+0,Port Mathurin (Traffic Centre)
+1,Creve Coeur (Contour Oblass)
+2,Solitude (Contour Kiosque)
+3,Mont Lubin (Hospital)
+4,Palissade (Leopold Workshop)
+5,Brule (Junction Roche Bon Dieu)
+6A,"Riviere Banane (Pre-primary
+School)"
+7A,Riviere Banane
+6,Roche Bon Dieu (View Point)
+7,"Roche Bon Dieu (Collette’s
+House)"
+8A,Saint Francois
+8,Pointe Coton (Lyod Shop)
+9,Pointe Coton (Public Beach)
+
+
+Route:,209
+Operator:,"Individual
+Operator"
+Location 1:,Riviere Cocos
+Location 2:,Port Mathurin
+0,Port Mathurin (Traffic Centre)
+1,Creve Coeur (Contour Oblass)
+2,Solitude (Contour Kiosque)
+3,Malabar (La Croisee Shop)
+4,"Sainte Famille (Hauteur Gros
+Roche)"
+5,Pompee (Luc Manan’s House)
+6,Canne Paul (Ravanne’s House)
+7,Songes (Perrine’s House)
+8A,Port Sud Est (Mapoon Shop)
+9A,Mourouk (Ebony Shop)
+8,Anse Baleine
+9,Tamarin
+10,Riviere Cocos (R.C.A. School)
+
+
+Route:,210
+Operator:,"Individual
+Operator"
+Location 1:,Graviers
+Location 2:,Port Mathurin
+0,Port Mathurin (Traffic Centre)
+1,"Creve Coeur (Contour
+Oblass))"
+2,Solitude (Contour Kiosque)
+3,Mont Lubin (Hospital)
+4,Palissade (Leopold Workshop)
+5,Coromandel
+6,"Batatrand (Government
+School)"
+7,Graviers
+
+
+Route:,210A
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Montagne Cabris
+0,Port Mathurin (Traffic Centre)
+1,"Creve Coeur (Contour
+Oblass))"
+2,Solitude (Contour Kiosque)
+3,Mont Lubin (Hospital)
+4,Palissade (Leopold Workshop)
+5,Coromandel
+6,Trois Soleils
+7A,Patate Theophile
+7,Montagne Cabris
+
+
+Route:,210B
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Montagne Cherie
+0,Port Mathurin (Traffic Centre)
+1,"Creve Coeur (Contour
+Oblass))"
+2,Solitude (Contour Kiosque)
+3,Mont Lubin (Hospital)
+4,Palissade (Leopold Workshop)
+5,Coromandel
+6,Thammes
+7,Montagne Cherie
+
+
+Route:,211
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Citron Donis
+0,Port Mathurin (Traffic Centre)
+1,Creve Coeur (Contour Oblass)
+2,Solitude (Contour Kiosque)
+3,Malabar (La Croisee Shop)
+4,Petit Gabriel (Police Station)
+5A,Eau Vannee
+5,Citron Donis
+
+
+Route:,213
+Operator:,"Individual
+Operator"
+Location 1:,Mourouk
+Location 2:,Baie du Nord
+0,Mourouk
+1,Port Sud Est (Mapoon Shop)
+2,Songes (Perrine’s House)
+3,Anse Baleine
+4,Tamarin
+5A,Riviere Cocos (R.C.A. School)
+5,Ile Michele
+6,Petite Butte (Polimon’s House)
+7,Corail (Edouard’s House)
+8A,"Anse Quitor (Lois Remy’s
+House)"
+9A,"Anse Quitor (Community
+Centre)"
+8,"Grand La Fouche Corail
+(Community Centre)"
+9,La Ferme (Church)
+10,Baie du Nord (Begue’s House)
+11,Baie du Nord
+
+
+Route:,215
+Operator:,TBS
+Location 1:,Port Louis
+Location 2:,Grand Bay
+0,"Port Louis (Transportation
+Centre)"
+15,Grand Baie (Police Station)
+16,"Grand Baie (La Jonque
+Restaurant)"
+
+
+Route:,216
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,Lallmatie
+0,Central Flacq (Bus Station)
+1,Bonne Mere (Maness)
+2,Bonne Mere (Reservoir)
+3,F.U.E.L.
+4,La Roche
+5,"Saint Julien (Government
+School)"
+6,"Lallmatie Branch Road
+(Mungur’s House)"
+7A,"Krishna Road (Bholah
+Ramburrun’s House)"
+7,"Grand Bas Fond (Surendra
+Gokhool’s House)"
+8,Lallmatie (Nowbuth’s Shop)
+9,"Saint Julien (Government
+School)"
+10,La Roche
+11,F.U.E.L.
+12,Bonne Mere (Reservoir)
+13,Bonne Mere (Maness)
+14,Central Flacq (Bus Station)
+
+
+Route:,217
+Operator:,"Individual
+Operator"
+Location 1:,Central Flacq
+Location 2:,No second location
+0,Central Flacq (Bus Station)
+1,Constance
+2,"Junction Central Flacq / Poste
+de Flacq Roads"
+3,"Hermitage (Frid Ramsamy’s
+House)"
+4,"La Porte Providence (Suren
+Coojja’s House)"
+5,"Poste de Flacq (Social Welfare
+Centre)"
+6,"Junction Central Flacq / Poste
+de Flacq Roads"
+7,Constance
+8,Central Flacq (Bus Station)
+
+
+Route:,220
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Soupirs
+0,Port Mathurin (Traffic Centre)
+1,Creve Coeur (Contour Oblass)
+2,Solitude (Contour Kiosque)
+3A,Citronelle (La Paille)
+3,Malabar (La Croisee Shop)
+4,Soupirs (Union Junction)
+
+
+Route:,221
+Operator:,NTC
+Location 1:,Riviere du Rempart
+Location 2:,Central Flacq
+0,"Riviere du Rempart (Traffic
+Centre)"
+1,"Plaine des Roches
+(Government School)"
+2,"Plaine des Roches (End of
+Village)"
+3,Plaine des Roches (Reservoir)
+4,"Junction Plaine des Roches /
+Petite Retraite Roads"
+5,Petite Retraite
+6,Pont Blanc
+7,Constance (Football Ground)
+8,Central Flacq (Bus Station)
+
+
+Route:,Unknown
+Operator:,Weekdays
+Location 1:,05h30
+Location 2:,05h30
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,Reduit (University of
+3,"Mauritius)
+Moka (Mahatma Gandhi
+Institute)"
+4,Gentilly
+5,Saint Pierre (Traffic Centre)
+6,Verdun (Beginning of Village)
+7,Verdun (Bar le Duc Bridge)
+8,Alma (Beginning of Village)
+9,Alma (Cemetery)
+10,"Quartier Militaire (Ex-Railway
+Station)"
+11,Providence (Branch Road)
+12,"Saint Julien D’Hotman
+(Overseas Gloves Factory)"
+13,"Saint Julien D’Hotman
+(Reetoo’s House)"
+14,"Saint Julien D’Hotman (End
+of Village)"
+15,Junction Unite / Higginson
+16,"Roads
+Junction Higginson / Riviere
+Cere Roads"
+17,"Saint Julien (Government
+School)"
+18,Lallmatie
+19,Bon Accueil
+20,Grande Retraite
+21,Petite Retraite
+23,"Laventure (Football
+Playground)"
+24,"Junction Amaury / Bois
+Jacquot Roads"
+25,Belle Vue Maurel
+26,Mon Loisir (Sugar Estate)
+27,"Riviere du Rempart (Traffic
+Centre)"
+
+
+Route:,222A
+Operator:,NTC
+Location 1:,Rose Hill
+Location 2:,Riviere du Rempart
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,Ebene (I.V.T.B.)
+2,Reduit (University of Mauritius)
+3,"Moka (Mahatma Gandhi
+Institute)"
+4,Gentilly
+5,Saint Pierre (Traffic Centre)
+6,Verdun (Beginning of Village)
+7,Verdun (Bar le Duc Bridge)
+8,Alma (Beginning of Village)
+9,Alma (Cemetery)
+10,"Quartier Militaire (Ex-Railway
+Station)"
+11,Providence (Branch Road)
+12,"Saint Julien D’Hotman
+(Overseas Gloves Factory)"
+13,"Saint Julien D’Hotman (Reetoo’s
+House)"
+14,"Saint Julien D’Hotman (End of
+Village)"
+15,"Junction Unite / Higginson
+Roads"
+16,"Junction Higginson / Riviere
+Cere Roads"
+17,"Saint Julien (Government
+School)"
+18,Lallmatie
+19,Belvedere
+20,"Brisee Verdiere (Latapie Branch
+Road)"
+22,"Grande Retraite (Junction
+Laventure / Flacq Roads)"
+23,"Petite Retraite (Junction
+Laventure / Bois d’Oiseaux
+Roads)"
+24,"Laventure (Magasin Bon
+Marche)"
+25,Laventure (Football Playground)
+26,"Junction Amaury / Bois Jacquot
+Roads"
+27,Belle Vue Maurel
+28,Mon Loisir (Sugar Estate)
+29,"Riviere du Rempart (Traffic
+Centre)"
+
+
+Route:,224
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Baladirou
+0,Port Mathurin (Traffic Centre)
+1,Creve Coeur (Contour Oblass)
+2,Solitude (Contour Kiosque)
+3,Mont Lubin (Hospital)
+4,Vainqueur
+5,"Montagne Goyaves (Health
+Centre)"
+6,Baladirou
+
+
+Route:,225
+Operator:,UBS
+Location 1:,Rose Hill
+Location 2:,Camp Levieux
+0,"Rose Hill (Dar-es-Salaam
+Square)"
+1,"Plaisance (Children
+Playground)"
+2,"Camp Levieux (NHDC
+Complex)"
+
+
+Route:,226
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Riviere du Rempart
+0,Curepipe (Jan Palach North)
+1,"Couvent de Lorette
+(Mosque)"
+2,"Couacaud (Surat Distribution
+Centre)"
+3,Belle Rive (Junction)
+4,"Belle Rive (Carreau
+Chapeau)"
+5,Valetta (Junction)
+6,Valetta (End of Village)
+7,Vuillemin (Junction)
+8,"Quartier Militaire (Ex-
+Railway Station)"
+9,Providence (Branch Road)
+10,"Saint Julien D’Hotman
+(Overseas Gloves Factory)"
+11,"Saint Julien D’Hotman
+(Reetoo’s House)"
+12,"Saint Julien D’Hotman (End
+of Village)"
+13,"Junction Unite / Higginson
+Roads"
+14,"Junction Higginson / Riviere
+Cere Roads"
+15,"Saint Julien (Government
+School)"
+16,Lallmatie
+17,Bon Accueil
+18,"Brisee Verdiere (Latapie
+Branch Road)"
+19,"Brisee Verdiere (Atma
+Shopping Centre)"
+20,"Mare d’Australia (Beginning
+of Village)"
+21,"Junction Mare d’Australia /
+Amaury Roads"
+22,Amaury (Social Welfare
+23,"Junction Laventure / Bois
+Jacquot Roads"
+24,Belle Vue Maurel
+25,Mon Loisir (Sugar Estate)
+26,"Riviere du Rempart (Traffic
+Centre)"
+
+
+Route:,226A
+Operator:,NTC
+Location 1:,Curepipe
+Location 2:,Riviere du Rempart
+0,Curepipe (Jan Palach North)
+1,"Couvent de Lorette
+(Mosque)"
+2,"Couacaud (Surat Distribution
+Centre)"
+3,Belle Rive (Junction)
+4,"Belle Rive (Carreau
+Chapeau)"
+5,Valetta (Junction)
+6,Valetta (End of Village)
+7,Vuillemin (Junction)
+8,"Quartier Militaire (Ex-
+Railway Station)"
+9,Providence (Branch Road)
+10,"Saint Julien D’Hotman
+(Overseas Gloves Factory)"
+11,"Saint Julien D’Hotman
+(Reetoo’s House)"
+12,"Saint Julien D’Hotman (End
+of Village)"
+13,"Junction Unite / Higginson
+Roads"
+14,"Junction Higginson / Riviere
+Cere Roads"
+15,"Saint Julien (Government
+School)"
+16,Lallmatie
+17,Belvedere
+18,"Brisee Verdiere (Atma
+Shopping Centre)"
+19,Mare d’Australia
+20,"Junction Mare d’Australia /
+Amaury Roads"
+21,Phoolyar Nagar
+22,Belle Vue Maurel
+23,Mon Loisir (Sugar Estate)
+
+
+Route:,226B
+Operator:,NTC
+Remark:,Service provided by buses of Route 226
+0,Curepipe (Jan Palach North)
+1,Couvent de Lorette (Mosque)
+2,"Couacaud (Surat Distribution
+Centre)"
+3,Belle Rive (Junction)
+4,Belle Rive (Carreau Chapeau)
+5,Valetta (Junction)
+6,Valetta (End of Village)
+7,Vuillemin (Junction)
+8,"Quartier Militaire (Ex Railway
+Station)"
+9,Providence (Branch Road)
+10,"Saint Julien D'Hotman
+(Overseas Gloves Factory)"
+11,"Saint Julien D'Hotman
+(Reetoo's House)"
+12,"Saint Julien D'Hotman (End of
+Village)"
+13,"Junction Unite / Higginson
+Roads"
+14,"Junction Higginson / Riviere
+Cere Roads"
+15,"Saint Julien (Government
+School)"
+16,Lallmatie
+17,Bon Acceuil
+18,Grande Retraite
+19,"Grande Retraite (Junction
+Laventure / Bois d'Oiseaux
+Roads)"
+20,"Laventure (Magasin Bon
+Marche)"
+21,Laventure (Football Ground)
+22,"Junction Amaury / Bois Jacquot
+Roads"
+23,Belle Vue Maurel
+24,Mon Loisir (Sugar Estate)
+25,"Riviere du Rempart (Traffic
+centre)"
+
+
+Route:,227
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Saint Antoine
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,"Pamplemousses (Eau
+Partagee)"
+8,"Beau Plan (L’Aventure du
+Sucre)"
+9,S.S.R.N. Hospital
+10,Saint Andre
+11,Morcellement Saint Andre
+12,Plaine des Papayes
+13,Belle Vue Pilot
+14,Fond du Sac (End of Village)
+15,Lower Vale (Sottise Junction)
+16,Upper Vale
+17,"Petit Raffray (Social Welfare
+Centre)"
+18,Cap Malheureux (Junction)
+19,Grand Gaube (Junction)
+20,"Goodlands (Government
+School)"
+21,Saint Antoine (Traffic Centre)
+
+
+Route:,228
+Operator:,TBS
+Location 1:,Saint Antoine
+Location 2:,Pointe aux Piments
+0,Grande Pointe aux Piments
+1,"Pointe aux Piments (Colonial
+Beach Hotel)"
+2,"Trou aux Biches (Oasis
+Hotel)"
+3,Trou aux Biches (Hotel)
+4,Mon Choisy (Public Beach)
+5,Canonnier’s Point
+6,"Grand Baie (La Pointe
+Supermarket)"
+7,Grand Baie (M.C.B.)
+8,Grand Baie (Merville Hotel)
+9A,Morcellement Swan
+9,"Pereybere (1st Public
+Beach)"
+10,"Pereybere (2nd Public
+Beach)"
+11,Cap Malheureux (Cemetery)
+12,Pavillon
+13,Petit Raffray (Fields)
+14,"Petit Raffray (Beginning of
+Village)"
+15,Trois Bras (Goodlands)
+16,"Goodlands (Government
+School)"
+17,"Saint Antoine (Traffic
+Centre)"
+
+
+Route:,229
+Operator:,UBS
+Location 1:,Rose Hill
+Location 2:,Bambous
+0,Rose Hill (Dar-es-Salaam Square)
+1,"Hugnin Road (Rose Hill Transport
+Garage)"
+2,Mont Roches (Co-operative Store)
+3,Saint Martin (Cemetery)
+4,"Junction Saint Martin / Black River
+Roads"
+5,"Bambous (Roches Brunes Youth
+Training Centre)"
+6,"Bambous (Junction Black River /
+Geoffroy Roads)"
+7A,Bambous (NHDC Complex)
+7,Bambous (Dragon Store)
+
+
+Route:,230
+Operator:,"Individual
+Operator"
+Location 1:,Port Mathurin
+Location 2:,Hauteur Accacia
+0,Port Mathurin (Traffic Centre)
+1A,Fond Camp du Roi
+1,Hauteur Accacia
+
+
+Route:,231
+Operator:,"Individual
+Operator"
+Location 1:,"Pointe aux
+Cannonniers"
+Location 2:,Saint Antoine
+0,Pointe aux Cannoniers
+1,"Grand Baie (La Pointe
+Supermarket)"
+2,Grand Baie (Super U)
+3,Sottise (Community Centre)
+4,"Upper Vale (Junction La
+Salette Road)"
+5,"Petit Raffray (Junction
+Daruty)"
+6,Rouillard (Junction Daruty)
+7,Trois Bras (Goodlands)
+8,"Goodlands (Government
+School)"
+9,"Saint Antoine (Traffic
+Centre)"
+
+
+Route:,232
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Bel Air
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,"Junction Camp des
+Embrevades"
+7,"D’Epinay (Beginning of
+Village)"
+8,D’Epinay (Kalimaye)
+9,Grande Rosalie
+10,"Villebague (La Nicoliere
+Junction)"
+11,Villebague (End of Village)
+12,Mare d’Australia
+13,"Brisee Verdiere (Atma
+Shopping Centre)"
+14,Belvedere
+15,Lallmatie
+16,"Saint Julien (Government
+School)"
+17,Saint Julien (Church)
+18,Belle Vue Allendy
+19,Constance
+20,Central Flacq
+21,Boulet Rouge
+22,Bramsthan
+23,"Ecroignard (Beginning of
+Village)"
+24,Ecroignard (End of Village)
+25,Caroline
+27,Bel Air (End of Village)
+
+
+Route:,233
+Operator:,UBS
+Location 1:,Plaine Verte
+Location 2:,Tranquebar
+0,Plaine Verte
+1,"Junction Boulevard Victoria /
+Inkerman Street"
+2,Tranquebar (Cite Madeleine)
+
+
+Route:,234
+Operator:,UBS
+Location 1:,Cite Vallijee
+Location 2:,Tranquebar
+0,Cite Vallijee (Bus Station)
+1,La Butte
+2,"Pandit Nehru Street (Jezebel
+Shoe Factory)"
+3,Tranquebar (Cite Madeleine)
+
+
+Route:,235
+Operator:,UBS
+Location 1:,Port Louis
+Location 2:,Cite Ilois
+0,"Port Louis (Transportation
+Centre)"
+1,Roche Bois (Fly Over)
+2,Roche Bois (Ex-Dockers Flat)
+3,Cite Ilois
+
+
+Route:,236
+Operator:,"Individual
+Operator"
+Location 1:,Port Louis
+Location 2:,Belle Mare
+0,"Port Louis (Transportation
+Centre)"
+1,"Hospice Pere Laval / Plaine
+Verte"
+2,Pere Laval Entrance
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Melle Laure
+5,Khoyratty
+6,Calebasses
+7,"Pamplemousses (Canton
+Belle Eau)"
+8,"The Mount (Boutique
+Bambous)"
+9,Petite Rosalie
+10,Grande Rosalie
+11,"Villebague (La Nicoliere
+Junction)"
+12,Villebague (End of Village)
+13,Mare d’Australia
+14,"Brisee Verdiere (Atma
+Shopping Centre)"
+15,"Brisee Verdiere (Latapie
+Branch Road)"
+16,Bon Accueil
+17,Lallmatie
+18,"Saint Julien (Government
+School)"
+19,La Roche
+20,F.U.E.L.
+21,Bonne Mere (Reservoir)
+22,Bonne Mere (Maness)
+23,Central Flacq
+24,Argy
+25,"Junction Belle Mare / Isidore
+Rose Roads"
+26,Mare La Chaux
+27,"Belle Mare (Beginning of
+Village)"
+28,Belle Mare (Public Beach)
+29,Belle Mare (Waterpark)
+
+
+Route:,237
+Operator:,UBS
+Location 1:,Vallee des Pretres
+Location 2:,Pailles
+0,Vallee des Pretres (Kovil)
+1,"Vallee des Pretres (Nalletamby’s
+House)"
+2,Junction Vallee des Pretres
+3,Plaine Verte
+4,"Junction Boulevard Victoria /
+Inkerman Street"
+5,"Junction Volcy Pougnet / Harris
+Streets"
+6,La Butte
+7,"Old Moka Road (Chinese
+Cultural Centre)"
+8,Les Guibies (Trunk Road)
+9,Pailles (Morcellement Raffray)
+
+
+Route:,238
+Operator:,UBS
+Location 1:,Pailles
+Location 2:,Port Louis
+0,Pailles (Morcellement Raffray)
+1,Les Guibies (Trunk Road)
+2,"Old Moka Road (Chinese Cultural
+Centre)"
+3,La Butte / Victoria Square
+4,Port Louis (Transportation Centre)
+
+
+Route:,239
+Operator:,RHT
+Location 1:,Camp Le Vieux
+Location 2:,Rose Hill
+0,"Rose Hill (Place Cardinal
+Margeot)"
+1,"Hugnin Road (Rose Hill
+Transport Garage)"
+2,"Camp Levieux (NHDC
+Complex)"
+3,"Roches Brunes
+(Independence Street)"
+4,"Beau Bassin (Serge Alfred
+Swimming Pool)"
+5,"Beau Bassin (Cercle de Beau
+Bassin)"
+6,"Rose Hill (Place Cardinal
+Margeot)"
+
+
+Route:,240
+Operator:,"Individual
+Operator"
+Location 1:,Sottise
+Location 2:,Central Flacq
+0,Sottise
+1,"Lower Vale (Government
+School)"
+2,"Lower Vale (Beginning of
+Village)"
+3,"Fond du Sac (Beginning of
+Village)"
+4,Belle Vue Pilot
+5,Plaine des Papayes
+6,Bois Mangues
+7,Belle Vue Harel
+8,Mapou
+9,Mon Choix
+10,Piton
+12,Gokoola
+13,L’Amitie
+14,Mon Loisir (Sugar Estate)
+15A,Riviere du Rempart
+15,Belle Vue Maurel
+16,"Junction Laventure / Bois
+Jacquot Roads"
+17,"Laventure (Football
+Playground)"
+19,Petite Retraite
+20,Pont Blanc
+21,Constance (Football Ground)
+22,Central Flacq (Bus Station)
+
+
+Route:,241
+Operator:,NTC
+Location 1:,Vacoas
+Location 2:,Rose Hill
+0,"Vacoas (NTC Remy Ollier
+Depot)"
+1,"La Caverne (Modern
+Complex)"
+2,Vacoas (Bus Station)
+3,"Phoenix (Indira Gandhi
+Cultural Centre)"
+4,Phoenix (I.V.T.B)
+5,"Pellegrin (Trianon Shopping
+Park)"
+6,Belle Rose (Pepsi Cola)
+7,"Rose Hill (Place Cardinal
+Margeot)"
+
+
+Route:,242
+Operator:,NTC
+Location 1:,Petite Riviere
+Location 2:,Vacoas
+0,Petite Riviere (Foyer Piat)
+1,"Petite Riviere (Police
+Station)"
+2,"Camp Benoit (Micro
+Electronics Mtius)"
+3,Coromandel (Sunray Hotel)
+4,"Belle Etoile (Tamil Social
+Hall)"
+5,"Beau Bassin (Vinayak
+Mandir)"
+6,"Beau Bassin (Cercle de
+Beau Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Belle Rose (Pepsi Cola)
+9,"Quatre Bornes (Cite Saint
+Jean)"
+10,La Louise
+11,Candos (Victoria Hospital)
+12,"La Caverne (Modern
+Complex)"
+13,Vacoas (ENT Hospital)
+
+
+Route:,245
+Operator:,"Individual
+Operator"
+Remark:,One trip only on weekdays by buses of Route 9
+0,Port Louis (Victoria Square)
+1,"Cassis (Royal
+College)/Brabant (SPAR)"
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,"Reduit (University of
+Mauritius)"
+8,"Trianon (Margarine
+Indsutries Limited)"
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,Highlands
+12,"Camp Fouquereaux
+(Roundabout)"
+13,Wooton (Roundabout)
+15,La Vigie (Roundabout)
+17,Midlands
+20,Union Park (Roundabout)
+21,Nouvelle France (Comlone)
+22,"Beau Climat (Sugar Estate
+Office)"
+23,La Flora (Shivala)
+25,Junction Riviere du Poste
+26,Riviere Dragon
+27,Britannia
+28,Tyack (Vishnu Mandir)
+30,Batimarais
+31,Chateau Benares
+32,Camp Diable
+
+
+Route:,246
+Operator:,"Individual
+Operator"
+Remark:,One trip only on weekdays
+0,Port Louis (Victoria Square)
+1,"Cassis (Royal
+College)/Brabant (SPAR)"
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,"Reduit (University of
+Mauritius)"
+8,"Trianon (Margarine
+Industries Limited)"
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,Highlands
+12,"Camp Fouquereaux
+(Roundabout)"
+13,Wooton (Roundabout)
+15,La Vigie (Roundabout)
+17,Midlands
+20,Union Park (Roundabout)
+21,Nouvelle France (Comlone)
+22,"Beau Climat (Sugar Estate
+Office)"
+23,La Flora (Shivala)
+24,"Grand Bois (Government
+School)"
+25,Grand Bois (Chapel)
+26,Bois Cheri
+
+
+Route:,247
+Operator:,UBS LTD
+Location 1:,Curepipe
+Location 2:,Cité Anouskha
+0,Curepipe (Jan Palach North)
+1,Forest Side (Post Office)
+2,Forest Side (UBS Depot)
+3,Cite Anouchka
+
+
+Route:,248
+Operator:,"Individual
+Operator"
+Remark:,One trip only on weekdays
+0,"Port Louis (Deschartres
+Street / Victoria Square)"
+1,"Cassis (Royal College) /
+Brabant (SPAR)"
+2,Camp Chapelon
+3,Pailles (Grewals)
+4,Soreze
+5,Colville Deverell Bridge
+6,Martindale
+7,"Reduit (University of
+Mauritius)"
+8,"Trianon (Margarine
+Industries Limited.)"
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,Highlands
+12,"Camp Fouquereaux
+(Roundabout)"
+13,Wooton (Roundabout)
+15,La Vigie (Roundabout)
+17,Midlands
+20,Union Park (Cluny Junction)
+21,Union Park (Village Hall)
+22,"Rose Belle (Junction
+Jawaharlall Nehru Hospital /
+Royal Roads)"
+23,Rose Belle (Gebert)
+24,"New Grove Branch Road
+(Community Health Centre)"
+25,"Gros Billot (Samputh’s
+House)"
+26,Mare Tabac (Bridge)
+28,Rivière du Poste (Kalimaye)
+29,Rivière du Poste (Terminus)
+
+
+Route:,249
+Operator:,UBS
+Location 1:,Dubreuil
+Location 2:,Quatre Bornes (Traffic Centre)
+0,Dubreuil
+1,Midlands Dam (Entrance)
+2,Raffray No 1
+3,"Junction Dubreuil /
+Chartreuse Roads"
+4,Piton du Milieu (Junction)
+5,Le Horne
+6,Belle Rive (Junction)
+7,Hermitage
+8,"Camp Fouqueraux (Junction
+Hermitage Road)"
+9,Highlands (Football Ground)
+10,"Phoenix (Junction Highlands
+Road)"
+11,Saint Paul (Magasin Lotus)
+12,Vacoas (Bus Station)
+13,"Phoenix (Garderie Saint
+Michel)"
+14,"Carreau Laliane (Woodun’s
+House)"
+15,Candos (Victoria Hospital)
+16,"Quatre Bornes (Traffic
+Centre)"
+
+
+Route:,249
+Operator:,UBS
+Location 1:,Port Louis (Victoria Square)
+Location 2:,No second location
+0,Port Louis (Victoria Square)
+1,Brabant (SPAR)
+2,G.R.N.W.
+3,Coromandel (Sunray Hotel)
+4,"Belle Etoile (Tamil Social
+Hall)"
+5,"Beau Bassin (Vinayak
+Mandir)"
+6,"Beau Bassin (Cercle de
+Beau Bassin)"
+7,"Rose Hill (Place Cardinal
+Margeot)"
+8,Belle Rose (Pepsi Cola)
+9,"Pellegrin (Trianon Shopping
+Park)"
+10,Phoenix (Pont Fer)
+11,Phoenix (Police Station)
+12,"Castel (Magasin Etoile
+Brillant)"
+13,"Eau Coulee (Neergheen
+Bhawan / Ruhee’s House)"
+14,"Couvent de Lorette
+(Mosque)"
+15,"Couacaud (Surat Distribution
+Centre)"
+16,Belle Rive (Junction)
+17,Le Horne
+18,Piton du Milieu (Junction)
+19,"Junction Chartreuse /
+Dubreuil Roads"
+20,Raffray No. 1
+21,Midlands Dam (Entrance)
+22,Dubreuil
+
+
+Route:,251
+Operator:,"Individual
+Operator/
+UBS"
+Location 1:,Calebasses
+Location 2:,Cite Vallijee
+0,Calebasses
+1,Khoyratty
+2,Melle Laure
+3,"Terre Rouge (Boutique
+Tamarin)"
+4,Pere Laval Entrance
+5,"Saint Francois Xavier Street
+(Stadium)"
+6,S.S.R. Street (Mosque)
+7,La Butte
+8,Plaine Lauzun (Bus Station)
+
+
+Route:,252
+Operator:,"Individual
+Operator"
+Remark:,Service provided by buses of Route 9
+0,Curepipe (Jan Palach South)
+1,Forest Side (Le Forum)
+3,Midlands
+6,"Nouvelle France
+(Roundabout)"
+7,Balisson (Roundabout)
+8,Jawaharlall Nehru Hospital
+9,Rose Belle (Gebert)
+10,La Rosa
+11,"Mare d’Albert (Government
+School)"
+12,Mare d’Albert (United Basalt)
+13,"Plaine Magnien (Police
+Station)"
+14,Plaisance (Grotto)
+15,Madame Dayla
+16,Beau Vallon
+17,Mahebourg (Bus Station)
+
+
+Route:,254
+Operator:,UBS
+Location 1:,Curepipe
+Location 2:,Rose Hill
+0,Curepipe (Jan Palach North)
+1,"Eau Coulee (Neergheen
+Bhawan)"
+2,"Castel (Magasin Etoile
+Brillant)"
+3,Phoenix (Police Station)
+4,Phoenix (Pont Fer)
+5,"Pellegrin (Trianon Shopping
+Park)"
+6,"Trianon (Margarine
+Industries Limited)"
+7,Ebene (Cyber Tower)
+8,Ebene (I.V.T.B.)
+9,"Rose Hill (Place Cardinal
+Margeot)"
+
+
+Route:,255
+Operator:,NTC
+Location 1:,Bord Cascade
+Location 2:,Rose Hill
+0,Bord Cascade
+1,Henrietta (Chapel)
+2,Glen Park (Shivala)
+3,"Reunion (Cantin
+Government School)"
+4,Vacoas (Bus Station)
+5,"Phoenix (Indira Gandhi
+Cultural Centre)"
+6,Phoenix (I.V.T.B)
+7,"Pellegrin (Trianon Shopping
+Park)"
+8,"Trianon (Margarine
+Industries Limited)"
+9,Ebene (Cyber Tower)
+10,Ebene (I.V.T.B.)
+11,"Rose Hill (Place Cardinal
+Margeot)"
+
+
